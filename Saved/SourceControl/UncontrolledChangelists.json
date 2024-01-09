@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GAME_PROJECTS_ue/Meris/Content/Main.umap",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Assets/Material_1.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Assets/Material_5.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Assets/Material_4.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Assets/Material_3.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Assets/Material_2.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Actors/Figure_one.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Actors/Figure_two.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Actors/Figure_three.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Assets/box.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Common/BP_PlayerController.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Actors/BP_Field.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Assets/Material_frame.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Assets/Material_plane.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Actors/BP_GameCollision.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Actors/Children/BP_GameCollision_Child.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Actors/BP_GameCollisionV.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Actors/BP_GameCollisionH.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/UI/WB_Main.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Assets/Material_grid.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Common/BP_Character.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Common/BP_Pawn.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Common/BP_ch.uasset",
+				"E:/GAME_PROJECTS_ue/Meris/Content/Common/BP_MainHUD.uasset"
+			]
+		}
+	]
+}
