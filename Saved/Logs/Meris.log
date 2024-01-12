@@ -2082,3 +2082,1404 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.12-07.26.14:634][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 346 ms (total: 3.36 sec)
 [2024.01.12-07.26.14:637][892]AssetCheck: New page: Asset Save: Main
 [2024.01.12-07.26.14:637][892]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2024.01.12-07.29.23:056][324]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.29.23:160][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.12-07.29.24:383][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.29.24:489][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.29.24:545][351]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.29.24:545][351]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure82F1167B4F86AFC0C6B121AE7C2C364C.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.29.24:554][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 3.53 sec)
+[2024.01.12-07.29.24:556][351]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.29.24:556][351]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.29.36:821][292]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.29.36:934][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.01.12-07.29.38:101][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.29.38:247][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.29.38:301][324]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.29.38:302][324]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_FigureA94A06D14F41B5646839BD832D0FA08E.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.29.38:311][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 3.74 sec)
+[2024.01.12-07.29.38:313][324]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.29.38:313][324]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.30.01:403][654]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.12-07.30.20:814][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.30.20:947][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.30.21:333][ 95]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.30.21:334][ 95]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure7898EE764FDFA3DEC0DCF4B9D882CAE7.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.30.21:343][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 528 ms (total: 4.27 sec)
+[2024.01.12-07.30.21:344][ 95]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.30.21:344][ 95]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.30.32:946][198]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.30.33:057][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.12-07.30.34:368][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.30.34:486][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.30.34:538][250]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.30.34:539][250]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure7E8C790141ED3D13C41EF4876C394880.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.30.34:548][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 4.45 sec)
+[2024.01.12-07.30.34:551][250]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.30.34:551][250]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.30.35:520][343]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.12-07.30.35:534][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-07.30.35:534][343]PIE: New page: PIE session: Main (12 янв. 2024 г., 13:30:35)
+[2024.01.12-07.30.35:534][343]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.01.12-07.30.35:572][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037667s)
+[2024.01.12-07.30.35:572][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.037706s)
+[2024.01.12-07.30.35:594][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.01.12-07.30.35:597][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-07.30.35:597][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-07.30.35:598][343]LogAIModule: Creating AISystem for world Main
+[2024.01.12-07.30.35:598][343]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2024.01.12-07.30.35:598][343]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.12-07.30.35:598][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-07.30.35:598][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-07.30.35:598][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-07.30.35:598][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-07.30.35:598][343]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-07.30.35:598][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-07.30.35:598][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-07.30.35:598][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-07.30.35:599][343]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-07.30.35:599][343]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-07.30.35:599][343]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-07.30.35:601][343]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-07.30.35:625][343]LogAudioMixer: Display: Using Audio Hardware Device Наушники (JBL WAVE300TWS Stereo)
+[2024.01.12-07.30.35:626][343]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-07.30.35:626][343]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-07.30.35:626][343]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-07.30.35:627][343]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.01.12-07.30.35:627][343]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.01.12-07.30.35:629][343]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.01.12-07.30.35:629][343]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.01.12-07.30.35:629][343]LogInit: FAudioDevice initialized with ID 13.
+[2024.01.12-07.30.35:629][343]LogAudio: Display: Audio Device (ID: 13) registered with world 'Main'.
+[2024.01.12-07.30.35:629][343]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.12-07.30.35:668][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-07.30.35:668][343]LogLoad: Game class is 'BP_GameMode_C'
+[2024.01.12-07.30.35:679][343]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.12-10.30.35
+[2024.01.12-07.30.35:680][343]LogWorld: Bringing up level for play took: 0.011357
+[2024.01.12-07.30.35:682][343]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.01.12-07.30.35:682][343]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.12-07.30.35:691][343]PIE: Server logged in
+[2024.01.12-07.30.35:696][343]PIE: Play in editor total start time 0,161 seconds.
+[2024.01.12-07.30.35:714][343]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.01.12-07.30.36:911][412]LogBlueprintUserMessages: [BP_GameMode_C_0] BP_Figure_Child_one_C
+[2024.01.12-07.30.40:451][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-07.30.40:451][670]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.01.12-07.30.40:451][670]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.12-07.30.40:457][670]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-07.30.40:459][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-07.30.40:463][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-07.30.40:469][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-07.30.40:488][670]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-07.30.40:488][670]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.12-07.30.40:488][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.12-07.30.40:490][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.12-07.30.40:502][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.12-07.30.40:553][671]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.01.12-07.31.32:128][308]LogSlate: Took 0.026116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.01.12-07.31.38:517][ 16]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.31.38:619][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.12-07.31.39:627][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.31.39:749][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.31.39:802][ 56]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.31.39:803][ 56]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_FigureFCA9E2F84B8254DD9180C2A58BD923C4.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.31.39:811][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 4.63 sec)
+[2024.01.12-07.31.39:813][ 56]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.31.39:813][ 56]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.32.42:131][979]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.12-07.32.46:224][183]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.12-07.33.27:788][ 83]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.33.27:901][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.01.12-07.33.29:068][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.33.29:167][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.33.29:219][106]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.33.29:220][106]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure808585D9427C414BC152F6ACB1F4F0D6.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.33.29:228][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 4.79 sec)
+[2024.01.12-07.33.29:230][106]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.33.29:230][106]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.34.57:114][803]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.34.57:226][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.12-07.34.58:393][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.34.58:532][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.34.58:589][828]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.34.58:590][828]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_FigureBC8D5AF041ED0EFB4BBBE39FA4BA1951.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.34.58:600][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 5.00 sec)
+[2024.01.12-07.34.58:603][828]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.34.58:603][828]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.35.48:317][473]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.35.48:431][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.12-07.35.49:124][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.35.49:191][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.35.49:245][474]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.35.49:246][474]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure1A6FF1FF4D384C79F86ED598E0A58B10.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.35.49:255][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 5.13 sec)
+[2024.01.12-07.35.49:256][474]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.35.49:256][474]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.36.37:219][757]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.36.37:331][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.12-07.36.38:504][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.36.38:598][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.36.38:654][816]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.36.38:655][816]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure860DFF9A4D8CC4E97AE7FAABBFC53EAD.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.36.38:664][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 160 ms (total: 5.29 sec)
+[2024.01.12-07.36.38:666][816]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.36.38:666][816]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.37.08:989][235]BlueprintLog: New page: Compile BP_Figure_Child_one
+[2024.01.12-07.37.09:048][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.12-07.37.09:735][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.37.09:846][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure_Child_one" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure_Child_one.uasset" SILENT=true
+[2024.01.12-07.37.09:856][278]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure_Child_one
+[2024.01.12-07.37.09:857][278]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure_Child_oneC0747ECF4F68CD6046584CA236602E28.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure_Child_one.uasset'
+[2024.01.12-07.37.09:866][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 5.42 sec)
+[2024.01.12-07.37.09:867][278]AssetCheck: New page: Asset Save: BP_Figure_Child_one
+[2024.01.12-07.37.09:867][278]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure_Child_one.BP_Figure_Child_one
+[2024.01.12-07.37.31:716][713]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/BP_Figure_Child_tree.BP_Figure_Child_tree
+[2024.01.12-07.37.31:716][713]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-07.37.31:716][713]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-07.37.33:811][857]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/BP_Figure_Child_two.BP_Figure_Child_two
+[2024.01.12-07.37.33:811][857]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-07.37.33:811][857]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-07.37.45:144][951]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-07.37.45:145][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-07.37.46:573][ 74]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.12-07.37.46:573][ 74]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-07.37.46:573][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-07.38.05:914][215]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.38.06:044][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.01.12-07.38.07:109][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.38.07:227][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.38.07:283][248]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.38.07:284][248]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure9D7631854C12382181F6A5AF042F3F6F.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.38.07:293][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 5.60 sec)
+[2024.01.12-07.38.07:295][248]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.38.07:295][248]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.38.18:497][485]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.38.18:614][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.12-07.38.19:603][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.38.19:736][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.38.19:794][517]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.38.19:795][517]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure5FC8E804411084AE73026398B89C2084.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.38.19:805][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 5.80 sec)
+[2024.01.12-07.38.19:807][517]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.38.19:807][517]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.38.45:972][485]BlueprintLog: New page: Compile BP_GameMode
+[2024.01.12-07.38.46:024][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.01.12-07.38.47:150][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.38.47:194][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.01.12-07.38.47:211][524]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.01.12-07.38.47:212][524]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode013B03254938A65A94E4AD8317C9E849.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.01.12-07.38.47:221][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 5.88 sec)
+[2024.01.12-07.38.47:222][524]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.01.12-07.38.47:222][524]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.01.12-07.39.07:043][797]LogBlueprint: Warning: ExposeOnSpawn ambiguity. Property 'ObjectProperty /Game/Actors/BP_Figure.SKEL_BP_Figure_C:ParentMaterial', MetaData 'True', Flag 'False'
+[2024.01.12-07.39.08:151][895]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.39.08:279][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.12-07.39.09:309][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.39.09:431][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.39.09:489][933]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.39.09:490][933]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure7E09CFBD41C8BCFCD8D5E8A425A7CEB1.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.39.09:499][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 6.07 sec)
+[2024.01.12-07.39.09:501][933]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.39.09:501][933]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.39.23:181][523]LogBlueprint: Warning: ExposeOnSpawn ambiguity. Property 'ObjectProperty /Game/Actors/BP_Figure.SKEL_BP_Figure_C:ParentMaterial', MetaData 'False', Flag 'True'
+[2024.01.12-07.39.24:252][617]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.39.24:320][617]LogBlueprint: Warning: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Actors\BP_Figure.uasset: [Compiler] Input pin  Parent Material  specifying non-default value no longer exists on node  SpawnActor BP Figure Child One . Please refresh node or reset pin to default value to remove pin.
+[2024.01.12-07.39.24:403][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.12-07.39.25:311][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.39.25:438][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.39.25:495][639]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.39.25:496][639]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure0F97607346FEFBF6E429F891D844136E.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.39.25:505][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 194 ms (total: 6.26 sec)
+[2024.01.12-07.39.25:507][639]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.39.25:507][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.39.58:886][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.01.12-07.39.58:890][811]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.029
+[2024.01.12-07.39.58:892][811]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actors/BP_Figure] ([2] browsable assets)...
+[2024.01.12-07.39.58:892][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/BP_Figure]
+[2024.01.12-07.39.58:892][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Actors/BP_Figure_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.01.12-07.39.58:965][811]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actors/BP_Figure_Auto1
+[2024.01.12-07.39.58:966][811]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure_Auto11D81822C42D3CE168888B39E8C8B8FA7.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Actors/BP_Figure_Auto1.uasset'
+[2024.01.12-07.39.58:968][811]LogFileHelpers: Auto-saving content packages took 0.077
+[2024.01.12-07.46.51:343][171]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.46.51:449][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.01.12-07.46.52:370][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.46.52:488][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.46.52:543][204]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.46.52:544][204]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_FigureDC853F044411BF45A875DBA1CA4CCB2D.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.46.52:553][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 6.44 sec)
+[2024.01.12-07.46.52:555][204]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.46.52:555][204]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.46.53:249][286]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.12-07.46.53:262][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-07.46.53:262][286]PIE: New page: PIE session: Main (12 янв. 2024 г., 13:46:53)
+[2024.01.12-07.46.53:262][286]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.01.12-07.46.53:298][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036408s)
+[2024.01.12-07.46.53:298][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.036451s)
+[2024.01.12-07.46.53:322][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.12-07.46.53:326][286]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-07.46.53:326][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-07.46.53:326][286]LogAIModule: Creating AISystem for world Main
+[2024.01.12-07.46.53:327][286]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2024.01.12-07.46.53:327][286]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.12-07.46.53:327][286]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-07.46.53:327][286]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-07.46.53:327][286]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-07.46.53:327][286]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-07.46.53:327][286]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-07.46.53:327][286]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-07.46.53:327][286]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-07.46.53:327][286]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-07.46.53:327][286]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-07.46.53:327][286]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-07.46.53:327][286]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-07.46.53:329][286]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-07.46.53:354][286]LogAudioMixer: Display: Using Audio Hardware Device Наушники (JBL WAVE300TWS Stereo)
+[2024.01.12-07.46.53:354][286]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-07.46.53:354][286]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-07.46.53:354][286]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-07.46.53:356][286]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.01.12-07.46.53:356][286]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.01.12-07.46.53:358][286]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.01.12-07.46.53:358][286]LogInit: FAudioDevice initialized with ID 14.
+[2024.01.12-07.46.53:358][286]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.01.12-07.46.53:358][286]LogAudio: Display: Audio Device (ID: 14) registered with world 'Main'.
+[2024.01.12-07.46.53:358][286]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.12-07.46.53:403][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-07.46.53:403][286]LogLoad: Game class is 'BP_GameMode_C'
+[2024.01.12-07.46.53:413][286]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.12-10.46.53
+[2024.01.12-07.46.53:414][286]LogWorld: Bringing up level for play took: 0.010378
+[2024.01.12-07.46.53:416][286]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.01.12-07.46.53:416][286]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.12-07.46.53:422][286]PIE: Server logged in
+[2024.01.12-07.46.53:423][286]PIE: Play in editor total start time 0,161 seconds.
+[2024.01.12-07.46.53:438][286]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.01.12-07.46.57:396][578]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array OverlappedCells [-1/0]!
+[2024.01.12-07.46.57:396][578]LogScript: Warning: Script Msg called by: BP_CollisionCell_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_CollisionCell_C_208
+[2024.01.12-07.46.57:828][613]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array OverlappedCells [-1/0]!
+[2024.01.12-07.46.57:828][613]LogScript: Warning: Script Msg called by: BP_CollisionCell_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_CollisionCell_C_199
+[2024.01.12-07.46.58:025][629]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array OverlappedCells [-1/0]!
+[2024.01.12-07.46.58:025][629]LogScript: Warning: Script Msg called by: BP_CollisionCell_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_CollisionCell_C_200
+[2024.01.12-07.47.00:351][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-07.47.00:351][812]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.01.12-07.47.00:351][812]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.12-07.47.00:357][812]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-07.47.00:358][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-07.47.00:362][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-07.47.00:368][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-07.47.00:386][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-07.47.00:388][812]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.12-07.47.00:389][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.12-07.47.00:390][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.12-07.47.00:402][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.12-07.47.00:451][813]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.01.12-07.47.03:805][195]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.47.03:914][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.12-07.47.04:699][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.47.04:819][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.47.04:874][214]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.47.04:875][214]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure0A3D99FC43CE56557E76E6B021FCE5F6.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.47.04:883][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 6.63 sec)
+[2024.01.12-07.47.04:885][214]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.47.04:885][214]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.47.10:111][839]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.12-07.47.10:125][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-07.47.10:125][839]PIE: New page: PIE session: Main (12 янв. 2024 г., 13:47:10)
+[2024.01.12-07.47.10:125][839]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.01.12-07.47.10:162][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036828s)
+[2024.01.12-07.47.10:162][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.036868s)
+[2024.01.12-07.47.10:184][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.12-07.47.10:188][839]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-07.47.10:188][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-07.47.10:189][839]LogAIModule: Creating AISystem for world Main
+[2024.01.12-07.47.10:189][839]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2024.01.12-07.47.10:189][839]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.01.12-07.47.10:189][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-07.47.10:189][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-07.47.10:189][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-07.47.10:189][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-07.47.10:189][839]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-07.47.10:189][839]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-07.47.10:189][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-07.47.10:189][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-07.47.10:190][839]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-07.47.10:190][839]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-07.47.10:190][839]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-07.47.10:192][839]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-07.47.10:216][839]LogAudioMixer: Display: Using Audio Hardware Device Наушники (JBL WAVE300TWS Stereo)
+[2024.01.12-07.47.10:216][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-07.47.10:216][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-07.47.10:216][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-07.47.10:217][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.01.12-07.47.10:217][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.01.12-07.47.10:219][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.01.12-07.47.10:219][839]LogInit: FAudioDevice initialized with ID 15.
+[2024.01.12-07.47.10:219][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.01.12-07.47.10:219][839]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main'.
+[2024.01.12-07.47.10:219][839]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.12-07.47.10:261][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-07.47.10:261][839]LogLoad: Game class is 'BP_GameMode_C'
+[2024.01.12-07.47.10:272][839]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.12-10.47.10
+[2024.01.12-07.47.10:272][839]LogWorld: Bringing up level for play took: 0.010657
+[2024.01.12-07.47.10:275][839]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.01.12-07.47.10:275][839]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.12-07.47.10:280][839]PIE: Server logged in
+[2024.01.12-07.47.10:281][839]PIE: Play in editor total start time 0,156 seconds.
+[2024.01.12-07.47.10:294][839]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.01.12-07.47.13:545][ 81]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array OverlappedCells [-1/1]!
+[2024.01.12-07.47.13:545][ 81]LogScript: Warning: Script Msg called by: BP_CollisionCell_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_CollisionCell_C_219
+[2024.01.12-07.47.25:251][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-07.47.25:251][  3]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.01.12-07.47.25:251][  3]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.12-07.47.25:256][  3]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-07.47.25:258][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-07.47.25:262][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-07.47.25:269][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-07.47.25:287][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-07.47.25:287][  3]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.12-07.47.25:287][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.12-07.47.25:289][  3]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.12-07.47.25:299][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.01.12-07.47.25:347][  4]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.01.12-07.47.29:760][519]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.47.29:866][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.12-07.47.30:582][537]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.12-07.47.30:595][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-07.47.30:595][537]PIE: New page: PIE session: Main (12 янв. 2024 г., 13:47:30)
+[2024.01.12-07.47.30:595][537]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.01.12-07.47.30:631][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036712s)
+[2024.01.12-07.47.30:631][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.036751s)
+[2024.01.12-07.47.30:653][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.12-07.47.30:657][537]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-07.47.30:657][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-07.47.30:657][537]LogAIModule: Creating AISystem for world Main
+[2024.01.12-07.47.30:658][537]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2024.01.12-07.47.30:658][537]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.01.12-07.47.30:658][537]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-07.47.30:658][537]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-07.47.30:658][537]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-07.47.30:658][537]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-07.47.30:658][537]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-07.47.30:658][537]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-07.47.30:658][537]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-07.47.30:658][537]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-07.47.30:658][537]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-07.47.30:658][537]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-07.47.30:658][537]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-07.47.30:660][537]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-07.47.30:685][537]LogAudioMixer: Display: Using Audio Hardware Device Наушники (JBL WAVE300TWS Stereo)
+[2024.01.12-07.47.30:685][537]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-07.47.30:685][537]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-07.47.30:685][537]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-07.47.30:686][537]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.01.12-07.47.30:686][537]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.01.12-07.47.30:688][537]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.01.12-07.47.30:688][537]LogInit: FAudioDevice initialized with ID 16.
+[2024.01.12-07.47.30:688][537]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.01.12-07.47.30:688][537]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main'.
+[2024.01.12-07.47.30:688][537]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.01.12-07.47.30:737][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-07.47.30:738][537]LogLoad: Game class is 'BP_GameMode_C'
+[2024.01.12-07.47.30:752][537]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.12-10.47.30
+[2024.01.12-07.47.30:752][537]LogWorld: Bringing up level for play took: 0.014281
+[2024.01.12-07.47.30:755][537]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.01.12-07.47.30:755][537]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.12-07.47.30:761][537]PIE: Server logged in
+[2024.01.12-07.47.30:761][537]PIE: Play in editor total start time 0,167 seconds.
+[2024.01.12-07.47.30:774][537]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.01.12-07.47.56:801][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-07.47.56:801][538]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.01.12-07.47.56:802][538]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.12-07.47.56:807][538]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-07.47.56:809][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-07.47.56:813][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-07.47.56:819][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-07.47.56:836][538]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-07.47.56:836][538]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.01.12-07.47.56:836][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.01.12-07.47.56:837][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.01.12-07.47.56:848][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.12-07.47.56:921][539]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.01.12-07.48.28:149][216]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.01.12-07.48.28:149][216]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.01.12-07.50.47:508][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.12-07.50.47:510][680]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.024
+[2024.01.12-07.50.47:511][680]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/BP_Figure] ([2] browsable assets)...
+[2024.01.12-07.50.47:663][680]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/BP_Figure.BP_Figure]
+[2024.01.12-07.50.47:664][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/BP_Figure]
+[2024.01.12-07.50.47:664][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Actors/BP_Figure_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.01.12-07.50.47:910][680]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actors/BP_Figure_Auto2
+[2024.01.12-07.50.47:910][680]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure_Auto2CCF5F8414BFCB1FB8F2F5DB1A14214A6.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Actors/BP_Figure_Auto2.uasset'
+[2024.01.12-07.50.47:924][680]LogFileHelpers: Auto-saving content packages took 0.413
+[2024.01.12-07.51.25:782][ 51]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.51.25:898][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.01.12-07.51.27:212][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.51.27:327][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.51.27:383][ 85]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.51.27:384][ 85]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_FigureE802BE2C45FF10566F06BF82D4318425.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.51.27:394][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 6.81 sec)
+[2024.01.12-07.51.27:396][ 85]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.51.27:396][ 85]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.51.50:784][ 55]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.01.12-07.51.50:784][ 55]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.01.12-07.53.20:982][778]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.53.21:089][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.12-07.56.00:550][636]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.56.00:669][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.12-07.56.01:840][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.56.01:967][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.56.02:030][670]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.56.02:031][670]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure8B1E1C1E449C1A7715599DBDBAEE4F57.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.56.02:039][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 7.01 sec)
+[2024.01.12-07.56.02:042][670]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.56.02:042][670]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.57.22:077][162]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.57.22:196][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.01.12-07.58.10:807][974]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.58.10:922][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.12-07.58.12:066][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.58.12:186][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.58.12:249][ 11]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.58.12:250][ 11]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure27E9F9E443F1DD157D737198E7261E16.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.58.12:258][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 7.20 sec)
+[2024.01.12-07.58.12:260][ 11]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.58.12:260][ 11]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.58.42:837][  8]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-07.58.42:954][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.12-07.58.43:991][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.58.44:100][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-07.58.44:166][ 44]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-07.58.44:167][ 44]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_FigureF0C5FFDD489C507DAF5F8C898CC1425D.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-07.58.44:176][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 7.39 sec)
+[2024.01.12-07.58.44:178][ 44]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-07.58.44:178][ 44]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-07.59.12:542][723]BlueprintLog: New page: Compile BP_CollisionCell
+[2024.01.12-07.59.12:872][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.12-07.59.13:490][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-07.59.13:533][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_CollisionCell" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_CollisionCell.uasset" SILENT=true
+[2024.01.12-07.59.13:553][724]LogSavePackage: Moving output files for package: /Game/Actors/BP_CollisionCell
+[2024.01.12-07.59.13:553][724]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_CollisionCellF59B6BB74ABFEB99826FEF9D1411CA2A.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_CollisionCell.uasset'
+[2024.01.12-07.59.13:580][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 7.48 sec)
+[2024.01.12-07.59.13:582][724]AssetCheck: New page: Asset Save: BP_CollisionCell
+[2024.01.12-07.59.13:582][724]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_CollisionCell.BP_CollisionCell
+[2024.01.12-08.00.09:686][853]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-08.00.09:814][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.12-08.00.10:830][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.00.10:961][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-08.00.11:027][882]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-08.00.11:028][882]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure92BA56424D7D5839A9663B8E78FA8DFD.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-08.00.11:036][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 7.68 sec)
+[2024.01.12-08.00.11:038][882]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-08.00.11:038][882]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-08.00.25:522][281]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-08.00.25:639][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.12-08.00.26:592][300]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.00.26:693][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-08.00.26:761][300]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-08.00.26:762][300]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_FigureB52EA0424A4E733C2AC90E851007DEEB.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-08.00.26:770][300]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 7.86 sec)
+[2024.01.12-08.00.26:772][300]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-08.00.26:772][300]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-08.00.41:855][691]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.12-08.00.41:869][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-08.00.41:869][691]PIE: New page: PIE session: Main (12 янв. 2024 г., 14:00:41)
+[2024.01.12-08.00.41:869][691]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.01.12-08.00.41:906][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036996s)
+[2024.01.12-08.00.41:906][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.037037s)
+[2024.01.12-08.00.41:927][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.12-08.00.41:929][691]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-08.00.41:929][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-08.00.41:930][691]LogAIModule: Creating AISystem for world Main
+[2024.01.12-08.00.41:930][691]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2024.01.12-08.00.41:930][691]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.01.12-08.00.41:930][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-08.00.41:930][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-08.00.41:930][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-08.00.41:930][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-08.00.41:930][691]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-08.00.41:930][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-08.00.41:930][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-08.00.41:931][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-08.00.41:931][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-08.00.41:931][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-08.00.41:931][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-08.00.41:933][691]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-08.00.41:958][691]LogAudioMixer: Display: Using Audio Hardware Device Наушники (JBL WAVE300TWS Stereo)
+[2024.01.12-08.00.41:958][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-08.00.41:958][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-08.00.41:958][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-08.00.41:959][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.01.12-08.00.41:959][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.01.12-08.00.41:961][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.01.12-08.00.41:961][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.01.12-08.00.41:961][691]LogInit: FAudioDevice initialized with ID 17.
+[2024.01.12-08.00.41:961][691]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main'.
+[2024.01.12-08.00.41:961][691]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.01.12-08.00.42:015][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.00.42:015][691]LogLoad: Game class is 'BP_GameMode_C'
+[2024.01.12-08.00.42:025][691]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.12-11.00.42
+[2024.01.12-08.00.42:026][691]LogWorld: Bringing up level for play took: 0.010928
+[2024.01.12-08.00.42:029][691]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.01.12-08.00.42:029][691]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.12-08.00.42:035][691]PIE: Server logged in
+[2024.01.12-08.00.42:036][691]PIE: Play in editor total start time 0,167 seconds.
+[2024.01.12-08.00.42:050][691]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.01.12-08.01.06:771][570]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.01.06:771][570]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.01.12-08.01.06:771][570]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.12-08.01.06:777][570]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-08.01.06:779][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.01.06:782][570]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-08.01.06:790][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.01.06:810][570]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-08.01.06:810][570]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.01.12-08.01.06:811][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.01.12-08.01.06:812][570]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.01.12-08.01.06:824][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.12-08.01.06:874][571]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.01.12-08.04.09:216][151]LogDerivedDataCache: C:/Users/polya/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.128 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1568 files in 2339 folders with total size 50 MiB.
+[2024.01.12-08.04.18:099][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.12-08.04.18:101][ 36]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.021
+[2024.01.12-08.04.18:102][ 36]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/BP_Figure] ([2] browsable assets)...
+[2024.01.12-08.04.18:191][ 36]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/BP_Figure.BP_Figure]
+[2024.01.12-08.04.18:191][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/BP_Figure]
+[2024.01.12-08.04.18:191][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Actors/BP_Figure_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.01.12-08.04.18:310][ 36]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actors/BP_Figure_Auto3
+[2024.01.12-08.04.18:311][ 36]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure_Auto33C22128D434E02A2677C03B3D72FD3E6.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Actors/BP_Figure_Auto3.uasset'
+[2024.01.12-08.04.18:314][ 36]LogFileHelpers: Auto-saving content packages took 0.212
+[2024.01.12-08.05.19:374][123]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-08.05.19:492][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.01.12-08.05.20:415][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.05.20:549][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-08.05.20:616][133]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-08.05.20:617][133]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure2B0F439C42831AB89A05B89341AC9300.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-08.05.20:625][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 8.07 sec)
+[2024.01.12-08.05.20:627][133]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-08.05.20:627][133]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-08.05.51:593][327]BlueprintLog: New page: Compile BP_CollisionCell
+[2024.01.12-08.05.51:989][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.12-08.05.52:587][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.05.52:618][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_CollisionCell" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_CollisionCell.uasset" SILENT=true
+[2024.01.12-08.05.52:636][328]LogSavePackage: Moving output files for package: /Game/Actors/BP_CollisionCell
+[2024.01.12-08.05.52:636][328]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_CollisionCell326A22734EB94AE717A9448B33010105.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_CollisionCell.uasset'
+[2024.01.12-08.05.52:645][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 8.13 sec)
+[2024.01.12-08.05.52:648][328]AssetCheck: New page: Asset Save: BP_CollisionCell
+[2024.01.12-08.05.52:648][328]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_CollisionCell.BP_CollisionCell
+[2024.01.12-08.05.53:676][444]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.12-08.05.53:688][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-08.05.53:688][444]PIE: New page: PIE session: Main (12 янв. 2024 г., 14:05:53)
+[2024.01.12-08.05.53:688][444]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.01.12-08.05.53:725][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036801s)
+[2024.01.12-08.05.53:725][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.036842s)
+[2024.01.12-08.05.53:749][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2024.01.12-08.05.53:758][444]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-08.05.53:759][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-08.05.53:760][444]LogAIModule: Creating AISystem for world Main
+[2024.01.12-08.05.53:760][444]LogPlayLevel: PIE: World Init took: (0.002241s)
+[2024.01.12-08.05.53:761][444]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.01.12-08.05.53:761][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-08.05.53:761][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-08.05.53:761][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-08.05.53:761][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-08.05.53:761][444]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-08.05.53:761][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-08.05.53:761][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-08.05.53:761][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-08.05.53:762][444]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-08.05.53:762][444]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-08.05.53:762][444]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-08.05.53:765][444]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-08.05.53:809][444]LogAudioMixer: Display: Using Audio Hardware Device Наушники (JBL WAVE300TWS Stereo)
+[2024.01.12-08.05.53:810][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-08.05.53:810][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-08.05.53:810][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-08.05.53:813][444]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.01.12-08.05.53:813][444]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.01.12-08.05.53:815][444]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.01.12-08.05.53:815][444]LogInit: FAudioDevice initialized with ID 18.
+[2024.01.12-08.05.53:815][444]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.01.12-08.05.53:815][444]LogAudio: Display: Audio Device (ID: 18) registered with world 'Main'.
+[2024.01.12-08.05.53:815][444]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.01.12-08.05.53:864][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.05.53:864][444]LogLoad: Game class is 'BP_GameMode_C'
+[2024.01.12-08.05.53:874][444]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.12-11.05.53
+[2024.01.12-08.05.53:875][444]LogWorld: Bringing up level for play took: 0.010624
+[2024.01.12-08.05.53:877][444]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.01.12-08.05.53:877][444]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.12-08.05.53:884][444]PIE: Server logged in
+[2024.01.12-08.05.53:886][444]PIE: Play in editor total start time 0,198 seconds.
+[2024.01.12-08.05.53:903][444]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.01.12-08.05.54:984][494]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_CollisionCell_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_CollisionCell_C_258
+	Function /Game/Actors/BP_CollisionCell.BP_CollisionCell_C:ExecuteUbergraph_BP_CollisionCell:0000
+[2024.01.12-08.05.54:984][494]PIE: Error: Infinite loop detected. Blueprint:  BP_CollisionCell Function:  Set IsClosed Call Stack:  Show
+[2024.01.12-08.05.55:011][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.05.55:011][494]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.01.12-08.05.55:011][494]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.12-08.05.55:019][494]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-08.05.55:021][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.05.55:036][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-08.05.55:042][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.05.55:061][494]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-08.05.55:063][494]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.01.12-08.05.55:063][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.01.12-08.05.55:064][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.01.12-08.05.55:075][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.12-08.05.55:256][495]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.01.12-08.05.58:245][799]LogSlate: Window 'Message Log' being destroyed
+[2024.01.12-08.05.58:254][799]LogSlate: Window 'Message Log' being destroyed
+[2024.01.12-08.07.47:002][999]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-08.07.47:120][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.12-08.07.48:279][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.07.48:383][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-08.07.48:451][ 27]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-08.07.48:452][ 27]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure4F257A324D6197BC07C60E8670A9CD9D.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-08.07.48:461][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 8.31 sec)
+[2024.01.12-08.07.48:463][ 27]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-08.07.48:463][ 27]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-08.07.49:411][126]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.12-08.07.49:424][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-08.07.49:424][126]PIE: New page: PIE session: Main (12 янв. 2024 г., 14:07:49)
+[2024.01.12-08.07.49:424][126]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.01.12-08.07.49:460][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036736s)
+[2024.01.12-08.07.49:460][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.036775s)
+[2024.01.12-08.07.49:481][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.12-08.07.49:484][126]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-08.07.49:484][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-08.07.49:485][126]LogAIModule: Creating AISystem for world Main
+[2024.01.12-08.07.49:485][126]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2024.01.12-08.07.49:485][126]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.01.12-08.07.49:485][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-08.07.49:485][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-08.07.49:485][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-08.07.49:485][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-08.07.49:486][126]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-08.07.49:486][126]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-08.07.49:486][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-08.07.49:486][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-08.07.49:486][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-08.07.49:486][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-08.07.49:486][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-08.07.49:488][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-08.07.49:513][126]LogAudioMixer: Display: Using Audio Hardware Device Наушники (JBL WAVE300TWS Stereo)
+[2024.01.12-08.07.49:513][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-08.07.49:513][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-08.07.49:513][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-08.07.49:514][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.01.12-08.07.49:514][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.01.12-08.07.49:516][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.01.12-08.07.49:516][126]LogInit: FAudioDevice initialized with ID 19.
+[2024.01.12-08.07.49:516][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.01.12-08.07.49:516][126]LogAudio: Display: Audio Device (ID: 19) registered with world 'Main'.
+[2024.01.12-08.07.49:516][126]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.01.12-08.07.49:561][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.07.49:561][126]LogLoad: Game class is 'BP_GameMode_C'
+[2024.01.12-08.07.49:573][126]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.12-11.07.49
+[2024.01.12-08.07.49:573][126]LogWorld: Bringing up level for play took: 0.011017
+[2024.01.12-08.07.49:575][126]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.01.12-08.07.49:576][126]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.12-08.07.49:585][126]PIE: Server logged in
+[2024.01.12-08.07.49:589][126]PIE: Play in editor total start time 0,166 seconds.
+[2024.01.12-08.07.49:606][126]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.01.12-08.07.50:507][178]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_CollisionCell_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_CollisionCell_C_258
+	Function /Game/Actors/BP_CollisionCell.BP_CollisionCell_C:ExecuteUbergraph_BP_CollisionCell:0000
+[2024.01.12-08.07.50:507][178]PIE: Error: Infinite loop detected. Blueprint:  BP_CollisionCell Function:  Set IsClosed Call Stack:  Show
+[2024.01.12-08.07.50:541][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.07.50:541][178]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.01.12-08.07.50:541][178]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.12-08.07.50:547][178]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-08.07.50:549][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.07.50:553][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-08.07.50:560][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.07.50:579][178]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-08.07.50:580][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.01.12-08.07.50:580][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.01.12-08.07.50:582][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.01.12-08.07.50:592][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.12-08.07.50:743][179]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.01.12-08.07.52:287][316]LogSlate: Window 'Message Log' being destroyed
+[2024.01.12-08.07.52:297][316]LogSlate: Window 'Message Log' being destroyed
+[2024.01.12-08.08.55:599][221]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-08.08.55:711][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.12-08.08.56:676][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.08.56:792][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-08.08.56:860][236]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-08.08.56:861][236]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure4417B5F243C0911F6F1B05B5CE97449A.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-08.08.56:871][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 8.51 sec)
+[2024.01.12-08.08.56:873][236]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-08.08.56:873][236]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-08.08.57:412][289]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.12-08.08.57:424][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-08.08.57:425][289]PIE: New page: PIE session: Main (12 янв. 2024 г., 14:08:57)
+[2024.01.12-08.08.57:425][289]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.01.12-08.08.57:461][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036673s)
+[2024.01.12-08.08.57:461][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.036713s)
+[2024.01.12-08.08.57:488][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.01.12-08.08.57:492][289]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-08.08.57:492][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-08.08.57:493][289]LogAIModule: Creating AISystem for world Main
+[2024.01.12-08.08.57:493][289]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2024.01.12-08.08.57:493][289]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.01.12-08.08.57:493][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-08.08.57:493][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-08.08.57:493][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-08.08.57:493][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-08.08.57:493][289]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-08.08.57:493][289]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-08.08.57:493][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-08.08.57:493][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-08.08.57:494][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-08.08.57:494][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-08.08.57:494][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-08.08.57:496][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-08.08.57:520][289]LogAudioMixer: Display: Using Audio Hardware Device Наушники (JBL WAVE300TWS Stereo)
+[2024.01.12-08.08.57:520][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-08.08.57:520][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-08.08.57:521][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-08.08.57:521][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.01.12-08.08.57:521][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.01.12-08.08.57:523][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.01.12-08.08.57:523][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.01.12-08.08.57:523][289]LogInit: FAudioDevice initialized with ID 20.
+[2024.01.12-08.08.57:523][289]LogAudio: Display: Audio Device (ID: 20) registered with world 'Main'.
+[2024.01.12-08.08.57:523][289]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.01.12-08.08.57:568][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.08.57:568][289]LogLoad: Game class is 'BP_GameMode_C'
+[2024.01.12-08.08.57:578][289]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.12-11.08.57
+[2024.01.12-08.08.57:578][289]LogWorld: Bringing up level for play took: 0.010461
+[2024.01.12-08.08.57:580][289]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.01.12-08.08.57:581][289]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.12-08.08.57:590][289]PIE: Server logged in
+[2024.01.12-08.08.57:595][289]PIE: Play in editor total start time 0,171 seconds.
+[2024.01.12-08.08.57:612][289]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.01.12-08.09.21:911][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.09.21:911][ 14]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.01.12-08.09.21:911][ 14]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.12-08.09.21:917][ 14]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-08.09.21:919][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.09.21:924][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-08.09.21:930][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.09.21:953][ 14]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-08.09.21:953][ 14]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.01.12-08.09.21:953][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.01.12-08.09.21:955][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.01.12-08.09.21:965][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.12-08.09.22:203][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.01.12-08.10.04:535][566]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-08.10.04:645][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.12-08.10.05:716][594]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.10.05:847][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-08.10.05:915][594]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-08.10.05:915][594]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_FigureD5CC3F8142EEC186755C2FAB5965B54E.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-08.10.05:924][594]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 8.72 sec)
+[2024.01.12-08.10.05:925][594]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-08.10.05:925][594]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-08.10.06:382][637]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.12-08.10.06:397][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-08.10.06:397][637]PIE: New page: PIE session: Main (12 янв. 2024 г., 14:10:06)
+[2024.01.12-08.10.06:397][637]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.01.12-08.10.06:435][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038082s)
+[2024.01.12-08.10.06:435][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.038121s)
+[2024.01.12-08.10.06:457][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.12-08.10.06:462][637]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-08.10.06:462][637]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-08.10.06:463][637]LogAIModule: Creating AISystem for world Main
+[2024.01.12-08.10.06:463][637]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2024.01.12-08.10.06:463][637]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.01.12-08.10.06:463][637]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-08.10.06:463][637]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-08.10.06:463][637]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-08.10.06:463][637]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-08.10.06:463][637]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-08.10.06:463][637]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-08.10.06:463][637]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-08.10.06:463][637]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-08.10.06:464][637]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-08.10.06:464][637]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-08.10.06:464][637]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-08.10.06:466][637]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-08.10.06:490][637]LogAudioMixer: Display: Using Audio Hardware Device Наушники (JBL WAVE300TWS Stereo)
+[2024.01.12-08.10.06:491][637]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-08.10.06:491][637]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-08.10.06:491][637]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-08.10.06:492][637]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.01.12-08.10.06:492][637]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.01.12-08.10.06:493][637]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.01.12-08.10.06:493][637]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.01.12-08.10.06:493][637]LogInit: FAudioDevice initialized with ID 21.
+[2024.01.12-08.10.06:493][637]LogAudio: Display: Audio Device (ID: 21) registered with world 'Main'.
+[2024.01.12-08.10.06:494][637]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.01.12-08.10.06:545][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.10.06:545][637]LogLoad: Game class is 'BP_GameMode_C'
+[2024.01.12-08.10.06:556][637]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.12-11.10.06
+[2024.01.12-08.10.06:556][637]LogWorld: Bringing up level for play took: 0.010835
+[2024.01.12-08.10.06:558][637]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.01.12-08.10.06:559][637]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.12-08.10.06:565][637]PIE: Server logged in
+[2024.01.12-08.10.06:567][637]PIE: Play in editor total start time 0,171 seconds.
+[2024.01.12-08.10.06:584][637]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.01.12-08.10.19:879][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:879][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:879][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:879][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:879][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:879][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:879][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:879][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:879][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:880][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:881][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.19:882][874]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 2
+[2024.01.12-08.10.31:233][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:233][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:234][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:235][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:236][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:237][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.31:238][909]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.10.34:971][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.10.34:971][923]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.01.12-08.10.34:971][923]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.12-08.10.34:999][923]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-08.10.35:001][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.10.35:005][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-08.10.35:011][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.10.35:032][923]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-08.10.35:032][923]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.01.12-08.10.35:032][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.01.12-08.10.35:034][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.01.12-08.10.35:044][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.12-08.10.35:279][924]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.01.12-08.10.40:423][263]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-08.10.40:531][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.12-08.10.41:493][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.10.41:618][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-08.10.41:683][289]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-08.10.41:684][289]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure1B05B6A44C5E90C02D68DDBCC8CD4EC7.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-08.10.41:693][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 8.92 sec)
+[2024.01.12-08.10.41:695][289]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-08.10.41:695][289]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-08.11.01:994][495]BlueprintLog: New page: Compile BP_CollisionCell
+[2024.01.12-08.11.02:328][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.12-08.11.49:179][102]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-08.11.49:312][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.12-08.11.50:469][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.11.50:581][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-08.11.50:660][141]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-08.11.50:660][141]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure5C2B1E0646692F9275891E8218E68350.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-08.11.50:670][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 9.12 sec)
+[2024.01.12-08.11.50:672][141]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-08.11.50:672][141]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-08.12.03:000][252]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-08.12.03:120][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.12-08.12.03:848][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.12.03:894][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-08.12.03:964][254]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-08.12.03:965][254]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure5F4435FD42B666C0DBDBF4927C518A7E.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-08.12.03:974][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 9.24 sec)
+[2024.01.12-08.12.03:976][254]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-08.12.03:976][254]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-08.12.04:766][337]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.12-08.12.04:779][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-08.12.04:779][337]PIE: New page: PIE session: Main (12 янв. 2024 г., 14:12:04)
+[2024.01.12-08.12.04:779][337]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.01.12-08.12.04:816][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037308s)
+[2024.01.12-08.12.04:816][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.037349s)
+[2024.01.12-08.12.04:840][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.12-08.12.04:844][337]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-08.12.04:844][337]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-08.12.04:844][337]LogAIModule: Creating AISystem for world Main
+[2024.01.12-08.12.04:844][337]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2024.01.12-08.12.04:845][337]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.01.12-08.12.04:845][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-08.12.04:845][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-08.12.04:845][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-08.12.04:845][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-08.12.04:845][337]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-08.12.04:845][337]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-08.12.04:845][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-08.12.04:845][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-08.12.04:845][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-08.12.04:845][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-08.12.04:845][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-08.12.04:847][337]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-08.12.04:872][337]LogAudioMixer: Display: Using Audio Hardware Device Наушники (JBL WAVE300TWS Stereo)
+[2024.01.12-08.12.04:872][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-08.12.04:872][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-08.12.04:872][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-08.12.04:873][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.01.12-08.12.04:873][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.01.12-08.12.04:875][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.01.12-08.12.04:875][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.01.12-08.12.04:875][337]LogInit: FAudioDevice initialized with ID 22.
+[2024.01.12-08.12.04:875][337]LogAudio: Display: Audio Device (ID: 22) registered with world 'Main'.
+[2024.01.12-08.12.04:875][337]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.01.12-08.12.04:922][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.12.04:922][337]LogLoad: Game class is 'BP_GameMode_C'
+[2024.01.12-08.12.04:933][337]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.12-11.12.04
+[2024.01.12-08.12.04:933][337]LogWorld: Bringing up level for play took: 0.010595
+[2024.01.12-08.12.04:935][337]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.01.12-08.12.04:936][337]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.12-08.12.04:942][337]PIE: Server logged in
+[2024.01.12-08.12.04:945][337]PIE: Play in editor total start time 0,166 seconds.
+[2024.01.12-08.12.04:960][337]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.01.12-08.12.17:046][233]LogBlueprintUserMessages: [BP_Figure_Child_one_C_0] 2
+[2024.01.12-08.12.27:333][ 10]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 3
+[2024.01.12-08.12.27:333][ 10]LogBlueprintUserMessages: [BP_Figure_Child_two_C_0] 3
+[2024.01.12-08.12.29:021][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.12.29:021][137]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.01.12-08.12.29:021][137]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.12-08.12.29:026][137]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-08.12.29:028][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.12.29:032][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-08.12.29:039][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.12.29:060][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-08.12.29:061][137]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.01.12-08.12.29:061][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.01.12-08.12.29:062][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.01.12-08.12.29:072][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.12-08.12.29:134][138]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.01.12-08.12.34:016][633]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-08.12.34:127][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.12-08.12.35:044][652]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.12.35:177][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-08.12.35:244][652]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-08.12.35:245][652]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure26C5C979410914CEEFBDB895A708B926.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-08.12.35:254][652]LogFileHelpers: InternalPromptForCheckoutAndSave took 209 ms (total: 9.45 sec)
+[2024.01.12-08.12.35:256][652]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-08.12.35:256][652]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-08.13.34:101][645]BlueprintLog: New page: Compile BP_Figure
+[2024.01.12-08.13.34:219][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.01.12-08.13.35:475][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.13.35:597][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.01.12-08.13.35:668][680]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.01.12-08.13.35:669][680]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure2E2871434E5161B0832B3AAA8CD3365E.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.01.12-08.13.35:678][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 9.65 sec)
+[2024.01.12-08.13.35:680][680]AssetCheck: New page: Asset Save: BP_Figure
+[2024.01.12-08.13.35:680][680]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.01.12-08.13.36:358][750]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.01.12-08.13.36:370][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-08.13.36:370][750]PIE: New page: PIE session: Main (12 янв. 2024 г., 14:13:36)
+[2024.01.12-08.13.36:370][750]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.01.12-08.13.36:407][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036938s)
+[2024.01.12-08.13.36:407][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.036977s)
+[2024.01.12-08.13.36:428][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.12-08.13.36:432][750]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-08.13.36:432][750]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-08.13.36:432][750]LogAIModule: Creating AISystem for world Main
+[2024.01.12-08.13.36:433][750]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2024.01.12-08.13.36:433][750]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.01.12-08.13.36:433][750]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-08.13.36:433][750]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-08.13.36:433][750]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-08.13.36:433][750]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-08.13.36:433][750]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.12-08.13.36:433][750]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-08.13.36:433][750]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.12-08.13.36:433][750]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-08.13.36:433][750]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-08.13.36:433][750]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-08.13.36:433][750]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-08.13.36:435][750]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-08.13.36:460][750]LogAudioMixer: Display: Using Audio Hardware Device Наушники (JBL WAVE300TWS Stereo)
+[2024.01.12-08.13.36:460][750]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-08.13.36:460][750]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-08.13.36:460][750]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-08.13.36:461][750]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.01.12-08.13.36:461][750]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.01.12-08.13.36:463][750]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.01.12-08.13.36:463][750]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.01.12-08.13.36:463][750]LogInit: FAudioDevice initialized with ID 23.
+[2024.01.12-08.13.36:463][750]LogAudio: Display: Audio Device (ID: 23) registered with world 'Main'.
+[2024.01.12-08.13.36:463][750]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.01.12-08.13.36:504][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.13.36:504][750]LogLoad: Game class is 'BP_GameMode_C'
+[2024.01.12-08.13.36:515][750]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.01.12-11.13.36
+[2024.01.12-08.13.36:515][750]LogWorld: Bringing up level for play took: 0.010559
+[2024.01.12-08.13.36:517][750]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.01.12-08.13.36:518][750]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.12-08.13.36:526][750]PIE: Server logged in
+[2024.01.12-08.13.36:531][750]PIE: Play in editor total start time 0,161 seconds.
+[2024.01.12-08.13.36:548][750]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.01.12-08.13.51:531][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-08.13.51:531][867]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.01.12-08.13.51:532][867]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.12-08.13.51:538][867]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-08.13.51:540][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.13.51:545][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-08.13.51:552][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-08.13.51:571][867]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.12-08.13.51:572][867]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.01.12-08.13.51:572][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.01.12-08.13.51:573][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.01.12-08.13.51:583][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.12-08.13.51:634][868]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.01.12-08.13.58:350][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.12-08.13.59:408][514]LogSlate: Window 'Save Content' being destroyed
+[2024.01.12-08.13.59:526][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-08.13.59:571][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_CollisionCell" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_CollisionCell.uasset" SILENT=true
+[2024.01.12-08.13.59:587][514]LogSavePackage: Moving output files for package: /Game/Actors/BP_CollisionCell
+[2024.01.12-08.13.59:588][514]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_CollisionCell97F338D845E5323E13BA3EB7DF1C1EE8.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_CollisionCell.uasset'
+[2024.01.12-08.13.59:599][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 9.73 sec)
+[2024.01.12-08.13.59:600][514]AssetCheck: New page: Asset Save: BP_CollisionCell
+[2024.01.12-08.13.59:600][514]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_CollisionCell.BP_CollisionCell
