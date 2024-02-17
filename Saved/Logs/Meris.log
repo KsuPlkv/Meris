@@ -9352,3 +9352,637 @@ Script Stack (0 frames) :
 [2024.02.17-18.15.46:828][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 15.2 sec)
 [2024.02.17-18.15.46:830][543]AssetCheck: New page: Asset Save: BP_Figure_Child_one
 [2024.02.17-18.15.46:830][543]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure_Child_one.BP_Figure_Child_one
+[2024.02.17-18.16.57:131][  3]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.17-18.16.57:209][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.17-18.16.58:040][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-18.16.58:083][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.17-18.16.58:143][  6]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.17-18.16.58:143][  6]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameModeC8DF63D64344A71322EB4F8399B5F7BA.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.17-18.16.58:152][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 15.3 sec)
+[2024.02.17-18.16.58:153][  6]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.17-18.16.58:153][  6]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.17-18.17.16:181][776]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.17-18.17.16:283][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.17-18.17.17:667][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-18.17.17:698][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.17-18.17.17:810][815]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.17-18.17.17:812][815]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameModeA55DC79E48DA30C018831F9223EC532B.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.17-18.17.17:825][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 15.5 sec)
+[2024.02.17-18.17.17:827][815]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.17-18.17.17:827][815]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.17-18.20.25:560][208]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.17-18.20.25:651][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.17-18.20.26:795][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-18.20.26:824][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.17-18.20.26:887][229]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.17-18.20.26:888][229]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode971DAD634E063092EA836C97791E617C.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.17-18.20.26:898][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 15.6 sec)
+[2024.02.17-18.20.26:901][229]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.17-18.20.26:901][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.17-18.20.28:096][330]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.17-18.20.28:109][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.17-18.20.28:109][330]PIE: New page: PIE session: Main (18 февр. 2024 г., 00:20:28)
+[2024.02.17-18.20.28:109][330]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.17-18.20.28:145][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035374s)
+[2024.02.17-18.20.28:145][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.035413s)
+[2024.02.17-18.20.28:174][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.02.17-18.20.28:178][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-18.20.28:178][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-18.20.28:178][330]LogAIModule: Creating AISystem for world Main
+[2024.02.17-18.20.28:179][330]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2024.02.17-18.20.28:179][330]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2024.02.17-18.20.28:179][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.17-18.20.28:179][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.17-18.20.28:179][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.17-18.20.28:179][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.17-18.20.28:179][330]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.17-18.20.28:179][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.17-18.20.28:179][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.17-18.20.28:179][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.17-18.20.28:179][330]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.17-18.20.28:179][330]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.17-18.20.28:179][330]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.17-18.20.28:181][330]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.17-18.20.28:209][330]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.17-18.20.28:210][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.17-18.20.28:210][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.17-18.20.28:210][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.17-18.20.28:210][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2024.02.17-18.20.28:210][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2024.02.17-18.20.28:212][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2024.02.17-18.20.28:212][330]LogInit: FAudioDevice initialized with ID 63.
+[2024.02.17-18.20.28:212][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2024.02.17-18.20.28:212][330]LogAudio: Display: Audio Device (ID: 63) registered with world 'Main'.
+[2024.02.17-18.20.28:213][330]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2024.02.17-18.20.28:262][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.20.28:262][330]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.17-18.20.28:272][330]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.17-21.20.28
+[2024.02.17-18.20.28:272][330]LogWorld: Bringing up level for play took: 0.009977
+[2024.02.17-18.20.28:275][330]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2024.02.17-18.20.28:275][330]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.17-18.20.28:282][330]PIE: Server logged in
+[2024.02.17-18.20.28:284][330]PIE: Play in editor total start time 0,175 seconds.
+[2024.02.17-18.20.28:303][330]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.17-18.20.34:085][713]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.20.34:087][713]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.20.34:106][713]LogScript: Warning: Accessed None trying to read property Block
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02E5
+[2024.02.17-18.20.34:145][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.34:145][713]LogScript: Warning: Accessed None
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02FA
+[2024.02.17-18.20.34:145][713]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.34:145][713]LogScript: Warning: Accessed None trying to read property Block
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02E5
+[2024.02.17-18.20.34:145][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.34:145][713]LogScript: Warning: Accessed None
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02FA
+[2024.02.17-18.20.34:145][713]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.34:145][713]LogScript: Warning: Accessed None trying to read property Block
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02E5
+[2024.02.17-18.20.34:145][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.34:145][713]LogScript: Warning: Accessed None
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02FA
+[2024.02.17-18.20.34:145][713]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.34:145][713]LogScript: Warning: Accessed None trying to read property Block
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02E5
+[2024.02.17-18.20.34:145][713]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.34:145][713]LogScript: Warning: Accessed None
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02FA
+[2024.02.17-18.20.34:145][713]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:925][ 48]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.20.38:926][ 48]LogBlueprintUserMessages: [BP_GameMode_C_0] 2
+[2024.02.17-18.20.38:928][ 48]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.20.38:928][ 48]LogScript: Warning: Accessed None trying to read property Block
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02E5
+[2024.02.17-18.20.38:928][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:928][ 48]LogScript: Warning: Accessed None
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02FA
+[2024.02.17-18.20.38:928][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:928][ 48]LogScript: Warning: Accessed None trying to read property Block
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02E5
+[2024.02.17-18.20.38:928][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:928][ 48]LogScript: Warning: Accessed None
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02FA
+[2024.02.17-18.20.38:928][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:928][ 48]LogScript: Warning: Accessed None trying to read property Block
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02E5
+[2024.02.17-18.20.38:928][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:929][ 48]LogScript: Warning: Accessed None
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02FA
+[2024.02.17-18.20.38:929][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:929][ 48]LogScript: Warning: Accessed None trying to read property Block
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02E5
+[2024.02.17-18.20.38:929][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:929][ 48]LogScript: Warning: Accessed None
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:AssendBlocks:02FA
+[2024.02.17-18.20.38:929][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:929][ 48]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.20.38:929][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:929][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:929][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:929][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:929][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:929][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:929][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.38:929][ 48]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.45:141][480]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.20.45:143][480]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.20.45:143][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.45:143][480]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.45:143][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.45:143][480]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.45:143][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.45:143][480]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.45:143][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.45:143][480]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:955][813]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.20.49:957][813]LogBlueprintUserMessages: [BP_GameMode_C_0] 2
+[2024.02.17-18.20.49:959][813]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:959][813]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:959][813]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:960][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:960][813]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:960][813]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.49:960][813]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.56:811][295]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.20.56:813][295]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.20.56:813][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.56:813][295]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.56:814][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.56:814][295]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.56:814][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.56:814][295]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.56:814][295]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.20.56:814][295]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.01:700][635]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.21.01:702][635]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.21.01:702][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.01:702][635]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.01:702][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.01:702][635]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.01:702][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.01:702][635]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.01:702][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.01:702][635]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.07:283][ 22]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.21.07:285][ 22]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.21.07:285][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.07:285][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.07:285][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.07:285][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.07:285][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.07:285][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.07:285][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.07:285][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:369][373]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.21.12:371][373]LogBlueprintUserMessages: [BP_GameMode_C_0] 2
+[2024.02.17-18.21.12:372][373]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.12:373][373]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.19:181][843]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.21.19:182][843]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.21.19:183][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.19:183][843]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.19:183][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.19:183][843]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.19:183][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.19:183][843]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.19:183][843]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.19:183][843]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.24:464][211]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.21.24:466][211]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.21.24:466][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.24:466][211]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.24:466][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.24:466][211]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.24:467][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.24:467][211]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.24:467][211]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.24:467][211]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:351][619]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.21.30:351][619]LogBlueprintUserMessages: [BP_GameMode_C_0] 2
+[2024.02.17-18.21.30:354][619]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.30:354][619]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:443][973]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.21.35:445][973]LogBlueprintUserMessages: [BP_GameMode_C_0] 2
+[2024.02.17-18.21.35:447][973]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.21.35:447][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:447][973]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:447][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:447][973]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:447][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:447][973]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:447][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:447][973]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:447][973]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.21.35:447][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:448][973]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:448][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:448][973]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:448][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:448][973]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:448][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.35:448][973]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.21.36:444][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.21.36:444][ 40]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.17-18.21.36:445][ 40]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.17-18.21.36:450][ 40]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-18.21.36:451][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.21.36:457][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.17-18.21.36:463][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.21.36:481][ 40]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.17-18.21.36:483][ 40]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2024.02.17-18.21.36:483][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2024.02.17-18.21.36:485][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2024.02.17-18.21.36:495][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.02.17-18.21.36:736][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2024.02.17-18.21.46:502][749]LogSlate: Window 'Message Log' being destroyed
+[2024.02.17-18.21.46:513][749]LogSlate: Window 'Message Log' being destroyed
+[2024.02.17-18.21.54:207][390]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.17-18.21.54:289][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.17-18.21.55:293][419]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.17-18.21.55:311][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.17-18.21.55:311][419]PIE: New page: PIE session: Main (18 февр. 2024 г., 00:21:55)
+[2024.02.17-18.21.55:311][419]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.17-18.21.55:346][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034970s)
+[2024.02.17-18.21.55:346][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.035011s)
+[2024.02.17-18.21.55:373][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.17-18.21.55:377][419]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-18.21.55:377][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-18.21.55:377][419]LogAIModule: Creating AISystem for world Main
+[2024.02.17-18.21.55:378][419]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2024.02.17-18.21.55:378][419]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2024.02.17-18.21.55:378][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.17-18.21.55:378][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.17-18.21.55:378][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.17-18.21.55:378][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.17-18.21.55:378][419]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.17-18.21.55:378][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.17-18.21.55:378][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.17-18.21.55:378][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.17-18.21.55:379][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.17-18.21.55:379][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.17-18.21.55:379][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.17-18.21.55:381][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.17-18.21.55:406][419]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.17-18.21.55:406][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.17-18.21.55:406][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.17-18.21.55:406][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.17-18.21.55:407][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2024.02.17-18.21.55:407][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2024.02.17-18.21.55:409][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2024.02.17-18.21.55:410][419]LogInit: FAudioDevice initialized with ID 64.
+[2024.02.17-18.21.55:410][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2024.02.17-18.21.55:410][419]LogAudio: Display: Audio Device (ID: 64) registered with world 'Main'.
+[2024.02.17-18.21.55:410][419]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2024.02.17-18.21.55:458][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.21.55:458][419]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.17-18.21.55:467][419]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.17-21.21.55
+[2024.02.17-18.21.55:468][419]LogWorld: Bringing up level for play took: 0.009814
+[2024.02.17-18.21.55:470][419]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2024.02.17-18.21.55:471][419]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.17-18.21.55:477][419]PIE: Server logged in
+[2024.02.17-18.21.55:479][419]PIE: Play in editor total start time 0,167 seconds.
+[2024.02.17-18.21.55:497][419]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.17-18.22.00:834][834]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.22.00:835][834]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.22.00:836][834]LogBlueprintUserMessages: [BP_GameMode_C_0] Hello
+[2024.02.17-18.22.00:836][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.00:836][834]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.00:836][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.00:836][834]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.00:836][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.00:836][834]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.00:836][834]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.00:836][834]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:317][206]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.22.05:319][206]LogBlueprintUserMessages: [BP_GameMode_C_0] 2
+[2024.02.17-18.22.05:321][206]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.22.05:321][206]LogBlueprintUserMessages: [BP_GameMode_C_0] Hello
+[2024.02.17-18.22.05:321][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:321][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:321][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:321][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:321][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:321][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:322][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:322][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:322][206]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.22.05:322][206]LogBlueprintUserMessages: [BP_GameMode_C_0] Hello
+[2024.02.17-18.22.05:322][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:322][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:322][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:322][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:322][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:322][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:322][206]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.05:322][206]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  AssendBlocks Function:  Assend Blocks Blueprint:  BP_GameMode
+[2024.02.17-18.22.06:416][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.22.06:416][294]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.17-18.22.06:416][294]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.17-18.22.06:421][294]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-18.22.06:423][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.22.06:428][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.17-18.22.06:434][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.22.06:452][294]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.17-18.22.06:453][294]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2024.02.17-18.22.06:453][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2024.02.17-18.22.06:454][294]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2024.02.17-18.22.06:465][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.17-18.22.06:612][295]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2024.02.17-18.22.07:968][393]LogSlate: Window 'Message Log' being destroyed
+[2024.02.17-18.22.07:977][393]LogSlate: Window 'Message Log' being destroyed
+[2024.02.17-18.24.12:790][375]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.17-18.24.13:233][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.17-18.24.19:950][922]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.17-18.24.20:058][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.17-18.24.26:726][394]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.17-18.24.26:834][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.02.17-18.24.28:234][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-18.24.28:287][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.17-18.24.28:396][427]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.17-18.24.28:397][427]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode2C66217B4D4136229D7142A44525032A.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.17-18.24.28:406][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 15.8 sec)
+[2024.02.17-18.24.28:407][427]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.17-18.24.28:407][427]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.17-18.24.32:918][774]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.17-18.24.32:931][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.17-18.24.32:931][774]PIE: New page: PIE session: Main (18 февр. 2024 г., 00:24:32)
+[2024.02.17-18.24.32:932][774]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.17-18.24.32:968][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035976s)
+[2024.02.17-18.24.32:968][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.036019s)
+[2024.02.17-18.24.32:996][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.17-18.24.32:998][774]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-18.24.32:998][774]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-18.24.32:999][774]LogAIModule: Creating AISystem for world Main
+[2024.02.17-18.24.32:999][774]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2024.02.17-18.24.32:999][774]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2024.02.17-18.24.32:999][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.17-18.24.32:999][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.17-18.24.32:999][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.17-18.24.32:999][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.17-18.24.32:999][774]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.17-18.24.32:999][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.17-18.24.33:000][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.17-18.24.33:000][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.17-18.24.33:000][774]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.17-18.24.33:000][774]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.17-18.24.33:000][774]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.17-18.24.33:002][774]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.17-18.24.33:028][774]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.17-18.24.33:029][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.17-18.24.33:029][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.17-18.24.33:029][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.17-18.24.33:030][774]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2024.02.17-18.24.33:030][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2024.02.17-18.24.33:031][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2024.02.17-18.24.33:031][774]LogInit: FAudioDevice initialized with ID 65.
+[2024.02.17-18.24.33:031][774]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2024.02.17-18.24.33:031][774]LogAudio: Display: Audio Device (ID: 65) registered with world 'Main'.
+[2024.02.17-18.24.33:032][774]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2024.02.17-18.24.33:083][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.24.33:083][774]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.17-18.24.33:093][774]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.17-21.24.33
+[2024.02.17-18.24.33:093][774]LogWorld: Bringing up level for play took: 0.009869
+[2024.02.17-18.24.33:095][774]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2024.02.17-18.24.33:095][774]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.17-18.24.33:105][774]PIE: Server logged in
+[2024.02.17-18.24.33:110][774]PIE: Play in editor total start time 0,179 seconds.
+[2024.02.17-18.24.33:133][774]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.17-18.24.39:107][105]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.24.39:109][105]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.24.44:428][394]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.24.44:430][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Figure_Child_One". Node:  Branch Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.17-18.24.44:430][394]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.24.48:994][651]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.24.48:995][651]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Figure_Child_One". Node:  Branch Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.17-18.24.48:996][651]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.24.51:465][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.24.51:465][790]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.17-18.24.51:465][790]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.17-18.24.51:470][790]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-18.24.51:472][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.24.51:478][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.17-18.24.51:485][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.24.51:505][790]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.17-18.24.51:505][790]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2024.02.17-18.24.51:505][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2024.02.17-18.24.51:507][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2024.02.17-18.24.51:519][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.17-18.24.51:662][791]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2024.02.17-18.25.17:623][918]LogSlate: Window 'Message Log' being destroyed
+[2024.02.17-18.25.17:629][918]LogSlate: Window 'Message Log' being destroyed
+[2024.02.17-18.25.20:808][224]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.17-18.25.20:904][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.02.17-18.25.22:798][293]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.17-18.25.22:811][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.17-18.25.22:811][293]PIE: New page: PIE session: Main (18 февр. 2024 г., 00:25:22)
+[2024.02.17-18.25.22:811][293]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.17-18.25.22:847][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035895s)
+[2024.02.17-18.25.22:847][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.035938s)
+[2024.02.17-18.25.22:876][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.17-18.25.22:879][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-18.25.22:879][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-18.25.22:880][293]LogAIModule: Creating AISystem for world Main
+[2024.02.17-18.25.22:880][293]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2024.02.17-18.25.22:880][293]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2024.02.17-18.25.22:880][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.17-18.25.22:880][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.17-18.25.22:880][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.17-18.25.22:880][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.17-18.25.22:880][293]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.17-18.25.22:880][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.17-18.25.22:880][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.17-18.25.22:880][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.17-18.25.22:881][293]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.17-18.25.22:881][293]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.17-18.25.22:881][293]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.17-18.25.22:883][293]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.17-18.25.22:909][293]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.17-18.25.22:909][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.17-18.25.22:910][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.17-18.25.22:910][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.17-18.25.22:911][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2024.02.17-18.25.22:911][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2024.02.17-18.25.22:913][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2024.02.17-18.25.22:913][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2024.02.17-18.25.22:913][293]LogInit: FAudioDevice initialized with ID 66.
+[2024.02.17-18.25.22:913][293]LogAudio: Display: Audio Device (ID: 66) registered with world 'Main'.
+[2024.02.17-18.25.22:913][293]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2024.02.17-18.25.22:968][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.25.22:969][293]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.17-18.25.22:979][293]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.17-21.25.22
+[2024.02.17-18.25.22:979][293]LogWorld: Bringing up level for play took: 0.010324
+[2024.02.17-18.25.22:981][293]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2024.02.17-18.25.22:982][293]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.17-18.25.22:991][293]PIE: Server logged in
+[2024.02.17-18.25.22:996][293]PIE: Play in editor total start time 0,185 seconds.
+[2024.02.17-18.25.23:016][293]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.17-18.25.28:353][634]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.25.28:355][634]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.25.32:929][940]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.25.32:931][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Block". Node:  Branch Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.17-18.25.32:931][940]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.25.35:007][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.25.35:007][ 80]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.17-18.25.35:007][ 80]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.17-18.25.35:012][ 80]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-18.25.35:014][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.25.35:019][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.17-18.25.35:025][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.25.35:045][ 80]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.17-18.25.35:045][ 80]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2024.02.17-18.25.35:045][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2024.02.17-18.25.35:046][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2024.02.17-18.25.35:056][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.17-18.25.35:200][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2024.02.17-18.25.58:416][109]LogSlate: Window 'Message Log' being destroyed
+[2024.02.17-18.25.58:423][109]LogSlate: Window 'Message Log' being destroyed
+[2024.02.17-18.25.59:240][195]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.17-18.25.59:343][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.17-18.26.00:564][230]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.17-18.26.00:577][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.17-18.26.00:577][230]PIE: New page: PIE session: Main (18 февр. 2024 г., 00:26:00)
+[2024.02.17-18.26.00:577][230]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.17-18.26.00:612][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035025s)
+[2024.02.17-18.26.00:612][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.035064s)
+[2024.02.17-18.26.00:635][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.17-18.26.00:638][230]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.17-18.26.00:638][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.17-18.26.00:638][230]LogAIModule: Creating AISystem for world Main
+[2024.02.17-18.26.00:639][230]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2024.02.17-18.26.00:639][230]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2024.02.17-18.26.00:639][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.17-18.26.00:639][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.17-18.26.00:639][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.17-18.26.00:639][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.17-18.26.00:639][230]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.17-18.26.00:639][230]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.17-18.26.00:639][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.17-18.26.00:639][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.17-18.26.00:640][230]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.17-18.26.00:640][230]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.17-18.26.00:640][230]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.17-18.26.00:641][230]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.17-18.26.00:667][230]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.17-18.26.00:667][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.17-18.26.00:667][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.17-18.26.00:667][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.17-18.26.00:668][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2024.02.17-18.26.00:668][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2024.02.17-18.26.00:670][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2024.02.17-18.26.00:670][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2024.02.17-18.26.00:670][230]LogInit: FAudioDevice initialized with ID 67.
+[2024.02.17-18.26.00:670][230]LogAudio: Display: Audio Device (ID: 67) registered with world 'Main'.
+[2024.02.17-18.26.00:670][230]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2024.02.17-18.26.00:716][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.26.00:716][230]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.17-18.26.00:726][230]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.17-21.26.00
+[2024.02.17-18.26.00:726][230]LogWorld: Bringing up level for play took: 0.010286
+[2024.02.17-18.26.00:729][230]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2024.02.17-18.26.00:729][230]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.17-18.26.00:738][230]PIE: Server logged in
+[2024.02.17-18.26.00:742][230]PIE: Play in editor total start time 0,165 seconds.
+[2024.02.17-18.26.00:759][230]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.17-18.26.06:646][694]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.26.06:648][694]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.26.12:237][140]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.26.12:239][140]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.26.17:824][607]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.26.17:826][607]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.26.22:294][980]LogBlueprintUserMessages: [BP_GameMode_C_0] 1
+[2024.02.17-18.26.22:296][980]LogBlueprintUserMessages: [BP_GameMode_C_0] 2
+[2024.02.17-18.26.22:298][980]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.26.22:298][980]LogBlueprintUserMessages: [BP_GameMode_C_0] Hello
+[2024.02.17-18.26.22:318][980]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.17-18.26.22:319][980]LogBlueprintUserMessages: [BP_GameMode_C_0] Hello
+[2024.02.17-18.26.22:319][980]LogBlueprintUserMessages: [BP_GameMode_C_0] delete them
+[2024.02.17-18.26.25:930][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.17-18.26.25:930][278]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.17-18.26.25:930][278]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.17-18.26.25:934][278]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.17-18.26.25:936][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.26.25:942][278]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.17-18.26.25:948][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.17-18.26.25:967][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.17-18.26.25:969][278]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2024.02.17-18.26.25:969][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2024.02.17-18.26.25:970][278]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2024.02.17-18.26.25:981][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.17-18.26.26:035][279]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2024.02.17-18.27.30:304][346]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.17-18.27.30:400][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.17-18.27.31:744][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-18.27.31:797][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.17-18.27.31:911][380]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.17-18.27.31:912][380]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode8786EDD14701E71FEC1854BEB0198678.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.17-18.27.31:926][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 15.9 sec)
+[2024.02.17-18.27.31:929][380]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.17-18.27.31:929][380]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.17-18.28.41:804][315]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.17-18.28.41:899][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.17-18.28.43:067][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-18.28.43:108][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.17-18.28.43:175][338]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.17-18.28.43:176][338]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameModeCF024F89427E272A789A6DA3C0814D9A.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.17-18.28.43:184][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 16.1 sec)
+[2024.02.17-18.28.43:186][338]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.17-18.28.43:186][338]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
