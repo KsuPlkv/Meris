@@ -8046,3 +8046,974 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.20-15.45.01:161][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 11.3 sec)
 [2024.02.20-15.45.01:163][822]AssetCheck: New page: Asset Save: BP_GameMode
 [2024.02.20-15.45.01:163][822]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-15.46.10:851][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.20-15.46.10:863][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Main_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.20-15.46.11:121][355]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto7
+[2024.02.20-15.46.11:122][355]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/Main_Auto7561DE12A4C026B76D75B9C8429B11B55.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Main_Auto7.umap'
+[2024.02.20-15.46.11:145][355]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Main_Auto7.umap is in the /Temp path, will not scan.
+[2024.02.20-15.46.11:146][355]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.325
+[2024.02.20-15.46.11:146][355]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.325
+[2024.02.20-15.49.07:682][359]LogDerivedDataCache: C:/Users/polya/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.061 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 267 files in 513 folders with total size 4 MiB.
+[2024.02.20-15.53.43:612][442]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-15.53.43:776][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.20-15.53.44:682][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-15.53.44:724][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-15.53.44:819][443]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-15.53.44:819][443]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameModeBF6B655741409836966D8E9B292E7F36.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-15.53.44:827][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 11.5 sec)
+[2024.02.20-15.53.44:830][443]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-15.53.44:830][443]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-15.56.12:256][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.20-15.56.12:261][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Main_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.20-15.56.12:585][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto8
+[2024.02.20-15.56.12:585][557]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/Main_Auto8C1F34DC94F54FCA1B2F442AE5A99BD92.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Main_Auto8.umap'
+[2024.02.20-15.56.12:587][557]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Main_Auto8.umap is in the /Temp path, will not scan.
+[2024.02.20-15.56.12:587][557]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Main_Auto8 is in the /Temp path, will not scan.
+[2024.02.20-15.56.12:587][557]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Main_Auto8 is in the /Temp path, will not scan.
+[2024.02.20-15.56.12:587][557]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.361
+[2024.02.20-15.56.12:587][557]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.361
+[2024.02.20-15.56.12:588][557]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/BP_Figure] ([2] browsable assets)...
+[2024.02.20-15.56.12:691][557]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/BP_Figure.BP_Figure]
+[2024.02.20-15.56.12:692][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/BP_Figure]
+[2024.02.20-15.56.12:693][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Actors/BP_Figure_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-15.56.12:783][557]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actors/BP_Figure_Auto8
+[2024.02.20-15.56.12:783][557]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure_Auto8ED12C7404AB6C29076B1D1AD27987166.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Actors/BP_Figure_Auto8.uasset'
+[2024.02.20-15.56.12:785][557]LogFileHelpers: Auto-saving content packages took 0.197
+[2024.02.20-16.10.27:034][788]BlueprintLog: New page: Compile BP_Figure
+[2024.02.20-16.10.27:431][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.02.20-16.10.28:199][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.10.28:384][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.02.20-16.10.28:476][791]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.02.20-16.10.28:477][791]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure07FA34C2482E2EBE65EBC9AB07FBDC16.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.02.20-16.10.28:486][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 286 ms (total: 11.8 sec)
+[2024.02.20-16.10.28:488][791]AssetCheck: New page: Asset Save: BP_Figure
+[2024.02.20-16.10.28:488][791]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.02.20-16.11.04:730][128]BlueprintLog: New page: Compile BP_Figure
+[2024.02.20-16.11.05:144][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.02.20-16.11.06:390][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.11.06:498][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.02.20-16.11.06:589][174]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.02.20-16.11.06:590][174]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_FigureA736735841AE5DC2AAE7AD82F41A7C75.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.02.20-16.11.06:598][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 12.0 sec)
+[2024.02.20-16.11.06:600][174]AssetCheck: New page: Asset Save: BP_Figure
+[2024.02.20-16.11.06:600][174]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.02.20-16.11.30:998][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.02.20-16.11.31:003][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Main_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.20-16.11.31:365][414]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto9
+[2024.02.20-16.11.31:365][414]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/Main_Auto92D4232DC4BC6449D6A3279A1C4923ACE.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Main_Auto9.umap'
+[2024.02.20-16.11.31:368][414]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Main_Auto9.umap is in the /Temp path, will not scan.
+[2024.02.20-16.11.31:368][414]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Main_Auto9 is in the /Temp path, will not scan.
+[2024.02.20-16.11.31:368][414]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Main_Auto9 is in the /Temp path, will not scan.
+[2024.02.20-16.11.31:368][414]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.398
+[2024.02.20-16.11.31:368][414]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.398
+[2024.02.20-16.36.32:872][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.36.32:958][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.36.32:994][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.36.33:047][ 60]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.36.33:109][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.36.33:136][ 63]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.36.33:205][ 65]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.36.37:020][375]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_Figure_Child_MiniCorner1.BP_Figure_Child_MiniCorner1_C
+[2024.02.20-16.36.37:038][375]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_Figure_Child_MiniCorner1.BP_Figure_Child_MiniCorner1_C
+[2024.02.20-16.36.37:063][375]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_Figure_Child_MiniCorner1.BP_Figure_Child_MiniCorner1 as actor: BP_Figure_Child_MiniCorner1_C /Game/Main.Main:PersistentLevel.BP_Figure_Child_MiniCorner1_C_0
+[2024.02.20-16.36.37:087][375]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_Figure_Child_MiniCorner1.BP_Figure_Child_MiniCorner1 as actor: BP_Figure_Child_MiniCorner1_C /Game/Main.Main:PersistentLevel.BP_Figure_Child_MiniCorner1_C_0
+[2024.02.20-16.36.37:144][375]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.02.20-16.36.37:902][453]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_Figure_Child_MiniCorner1.BP_Figure_Child_MiniCorner1_C
+[2024.02.20-16.36.37:902][453]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Actors/BP_Figure_Child_MiniCorner1.BP_Figure_Child_MiniCorner1_C
+[2024.02.20-16.36.37:908][453]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_Figure_Child_MiniCorner1.BP_Figure_Child_MiniCorner1 as actor: BP_Figure_Child_MiniCorner1_C /Game/Main.Main:PersistentLevel.BP_Figure_Child_MiniCorner1_C_1
+[2024.02.20-16.36.37:913][453]LogActorFactory: Actor Factory spawned Blueprint /Game/Actors/BP_Figure_Child_MiniCorner1.BP_Figure_Child_MiniCorner1 as actor: BP_Figure_Child_MiniCorner1_C /Game/Main.Main:PersistentLevel.BP_Figure_Child_MiniCorner1_C_1
+[2024.02.20-16.36.47:782][268]Cmd: DELETE
+[2024.02.20-16.36.47:794][268]Cmd: ACTOR DELETE
+[2024.02.20-16.36.48:226][268]LogEditorActor: Deleted Actor: BP_Figure_Child_one_C
+[2024.02.20-16.36.48:278][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.20-16.36.48:283][268]LogEditorActor: Deleted 1 Actors (0.095 secs)
+[2024.02.20-16.36.49:913][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.36.49:955][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.20-16.36.50:042][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.20-16.36.50:307][429]LogSavePackage: Moving output files for package: /Game/Main
+[2024.02.20-16.36.50:308][429]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/Main49C0280A4C7EC2899B6FB180C141B90F.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Main.umap'
+[2024.02.20-16.36.50:337][429]LogFileHelpers: Saving map 'Main' took 0.383
+[2024.02.20-16.36.50:344][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 431 ms (total: 12.4 sec)
+[2024.02.20-16.36.50:349][429]AssetCheck: New page: Asset Save: Main
+[2024.02.20-16.36.50:349][429]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2024.02.20-16.36.59:426][376]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/BP_Figure_Child_MiniCorner1.BP_Figure_Child_MiniCorner1
+[2024.02.20-16.36.59:427][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.36.59:427][376]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-16.37.35:532][279]BlueprintLog: New page: Compile BP_Figure_Child_one
+[2024.02.20-16.37.35:656][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.02.20-16.37.36:696][315]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.37.36:836][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure_Child_one" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure_Child_one.uasset" SILENT=true
+[2024.02.20-16.37.36:961][315]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure_Child_one
+[2024.02.20-16.37.36:962][315]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure_Child_one54EA1BF640EDCED34DFEBC9F18DB2C8B.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure_Child_one.uasset'
+[2024.02.20-16.37.36:983][315]LogFileHelpers: InternalPromptForCheckoutAndSave took 287 ms (total: 12.7 sec)
+[2024.02.20-16.37.36:984][315]AssetCheck: New page: Asset Save: BP_Figure_Child_one
+[2024.02.20-16.37.36:984][315]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure_Child_one.BP_Figure_Child_one
+[2024.02.20-16.37.45:804][ 44]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.20-16.37.45:819][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-16.37.45:819][ 44]PIE: New page: PIE session: Main (20 февр. 2024 г., 22:37:45)
+[2024.02.20-16.37.45:819][ 44]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.20-16.37.45:868][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049484s)
+[2024.02.20-16.37.45:868][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.049521s)
+[2024.02.20-16.37.45:909][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.20-16.37.45:913][ 44]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.37.45:913][ 44]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-16.37.45:913][ 44]LogAIModule: Creating AISystem for world Main
+[2024.02.20-16.37.45:914][ 44]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2024.02.20-16.37.45:914][ 44]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.02.20-16.37.45:934][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-16.37.45:935][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-16.37.45:935][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-16.37.45:935][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-16.37.45:935][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-16.37.45:935][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-16.37.45:935][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-16.37.45:935][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-16.37.45:935][ 44]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-16.37.45:935][ 44]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-16.37.45:935][ 44]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-16.37.45:935][ 44]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-16.37.45:978][ 44]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.20-16.37.45:978][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-16.37.45:978][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-16.37.45:978][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-16.37.45:979][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.02.20-16.37.45:990][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.02.20-16.37.45:990][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.02.20-16.37.45:990][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.02.20-16.37.45:990][ 44]LogInit: FAudioDevice initialized with ID 39.
+[2024.02.20-16.37.45:990][ 44]LogAudio: Display: Audio Device (ID: 39) registered with world 'Main'.
+[2024.02.20-16.37.45:990][ 44]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.02.20-16.37.46:039][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.37.46:039][ 44]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.20-16.37.46:052][ 44]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.20-19.37.46
+[2024.02.20-16.37.46:053][ 44]LogWorld: Bringing up level for play took: 0.013898
+[2024.02.20-16.37.46:055][ 44]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.02.20-16.37.46:056][ 44]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.20-16.37.46:079][ 44]PIE: Server logged in
+[2024.02.20-16.37.46:082][ 44]PIE: Play in editor total start time 0,263 seconds.
+[2024.02.20-16.37.46:101][ 44]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.20-16.37.53:299][476]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array OverlappedCells [-1/1]!
+[2024.02.20-16.37.53:299][476]LogScript: Warning: Script Msg called by: BP_CollisionCell_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_CollisionCell_C_143
+[2024.02.20-16.37.57:347][735]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.37.57:347][735]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.37.57:347][735]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.37.57:347][735]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.37.57:362][735]LogBlueprintUserMessages: [BP_GameMode_C_0] assend
+[2024.02.20-16.37.57:364][735]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.37.57:364][735]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.37.57:364][735]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.37.57:364][735]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.37.57:380][735]LogBlueprintUserMessages: [BP_GameMode_C_0] assend
+[2024.02.20-16.38.01:172][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.38.01:172][979]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.20-16.38.01:173][979]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.20-16.38.01:179][979]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.38.01:182][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.38.01:185][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-16.38.01:191][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.38.01:212][979]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-16.38.01:216][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.02.20-16.38.01:216][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.02.20-16.38.01:218][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.02.20-16.38.01:232][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.02.20-16.38.01:262][980]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.02.20-16.39.26:569][236]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.39.26:741][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.20-16.40.39:951][474]BlueprintLog: New page: Collapse to Macro
+[2024.02.20-16.41.03:217][714]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.41.03:381][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.02.20-16.41.35:287][350]LogSlate: Took 0.362276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.02.20-16.42.15:381][163]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.42.15:566][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.02.20-16.42.17:125][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.42.17:174][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.42.17:269][206]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.42.17:269][206]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameModeB9B413324ABFB28A974BB0B465D4458D.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.42.17:278][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 12.9 sec)
+[2024.02.20-16.42.17:281][206]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.42.17:281][206]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.43.14:876][379]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.43.15:040][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.02.20-16.43.16:265][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.43.16:311][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.43.16:407][392]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.43.16:408][392]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode5407EABE4E359F34ADD02388B5E4AEED.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.43.16:416][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 13.0 sec)
+[2024.02.20-16.43.16:419][392]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.43.16:419][392]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.43.18:880][599]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.20-16.43.18:895][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-16.43.18:895][599]PIE: New page: PIE session: Main (20 февр. 2024 г., 22:43:18)
+[2024.02.20-16.43.18:895][599]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.20-16.43.18:948][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052202s)
+[2024.02.20-16.43.18:948][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.052242s)
+[2024.02.20-16.43.18:978][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.20-16.43.18:984][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.43.18:984][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-16.43.18:985][599]LogAIModule: Creating AISystem for world Main
+[2024.02.20-16.43.18:985][599]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2024.02.20-16.43.18:985][599]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.02.20-16.43.18:985][599]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-16.43.18:985][599]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-16.43.18:985][599]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-16.43.18:985][599]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-16.43.18:985][599]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-16.43.18:985][599]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-16.43.18:985][599]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-16.43.18:985][599]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-16.43.18:986][599]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-16.43.18:986][599]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-16.43.18:986][599]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-16.43.18:988][599]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-16.43.19:015][599]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.20-16.43.19:015][599]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-16.43.19:015][599]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-16.43.19:015][599]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-16.43.19:016][599]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.02.20-16.43.19:016][599]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.02.20-16.43.19:019][599]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.02.20-16.43.19:019][599]LogInit: FAudioDevice initialized with ID 40.
+[2024.02.20-16.43.19:019][599]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.02.20-16.43.19:019][599]LogAudio: Display: Audio Device (ID: 40) registered with world 'Main'.
+[2024.02.20-16.43.19:019][599]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.02.20-16.43.19:078][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.43.19:079][599]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.20-16.43.19:091][599]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.20-19.43.19
+[2024.02.20-16.43.19:091][599]LogWorld: Bringing up level for play took: 0.012487
+[2024.02.20-16.43.19:094][599]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.02.20-16.43.19:094][599]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.20-16.43.19:101][599]PIE: Server logged in
+[2024.02.20-16.43.19:103][599]PIE: Play in editor total start time 0,208 seconds.
+[2024.02.20-16.43.19:121][599]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.20-16.43.24:838][966]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.43.24:839][966]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.43.24:839][966]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.43.24:839][966]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.43.24:854][966]LogBlueprintUserMessages: [BP_GameMode_C_0] assend
+[2024.02.20-16.43.24:856][966]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.43.24:856][966]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.43.24:856][966]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.43.24:856][966]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.43.24:871][966]LogBlueprintUserMessages: [BP_GameMode_C_0] assend
+[2024.02.20-16.43.25:960][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.43.25:960][ 37]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.20-16.43.25:960][ 37]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.20-16.43.25:965][ 37]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.43.25:967][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.43.25:970][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-16.43.25:976][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.43.26:001][ 37]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-16.43.26:001][ 37]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.02.20-16.43.26:001][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.02.20-16.43.26:003][ 37]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.02.20-16.43.26:015][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.20-16.43.26:046][ 38]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.02.20-16.43.55:252][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.43.55:288][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.43.55:392][ 44]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.43.55:393][ 44]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode1BE954F143AD538429F653A5D25E7A2E.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.43.55:401][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 13.2 sec)
+[2024.02.20-16.43.55:403][ 44]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.43.55:403][ 44]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.45.14:552][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.45.14:600][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.45.14:719][371]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.45.14:720][371]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode713B04CE4092D83F032335B74241B33D.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.45.14:729][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 13.3 sec)
+[2024.02.20-16.45.14:731][371]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.45.14:731][371]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.47.09:329][628]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.47.09:746][628]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Actors\BP_Figure.uasset: [Compiler] Can't connect pins  Actor  and  Local Actor : Convert BP Figure Child One Object Reference to Array of BP Figure Child One Object References
+[2024.02.20-16.47.09:746][628]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Actors\BP_Figure.uasset: [Compiler] In use pin  Column  no longer exists on node  Seek for Same Color . Please refresh node or break links to remove pin.
+[2024.02.20-16.47.09:747][628]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Actors\BP_Figure.uasset: [Compiler] In use pin  Row  no longer exists on node  Seek for Same Color . Please refresh node or break links to remove pin.
+[2024.02.20-16.47.09:747][628]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Actors\BP_Figure.uasset: [Compiler] Can't connect pins  Local Actor  and  Actor : Convert BP Figure Child One Object Reference to Array of BP Figure Child One Object References
+[2024.02.20-16.47.09:913][628]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Common\BP_GameMode.uasset: [Compiler] Can't connect pins  Actor  and  Block : Convert BP Figure Child One Object Reference to Array of BP Figure Child One Object References
+[2024.02.20-16.47.09:913][628]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Common\BP_GameMode.uasset: [Compiler] In use pin  Column  no longer exists on node  Seek for Same Color . Please refresh node or break links to remove pin.
+[2024.02.20-16.47.09:913][628]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Common\BP_GameMode.uasset: [Compiler] In use pin  Row  no longer exists on node  Seek for Same Color . Please refresh node or break links to remove pin.
+[2024.02.20-16.47.09:913][628]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Common\BP_GameMode.uasset: [Compiler] Can't connect pins  Block  and  Actor : Convert BP Figure Child One Object Reference to Array of BP Figure Child One Object References
+[2024.02.20-16.47.10:075][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.20-16.47.26:064][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.47.26:094][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.47.26:475][892]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.47.26:476][892]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode75580DFC42C35881F6561EACC3BC6C53.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.47.26:487][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 422 ms (total: 13.8 sec)
+[2024.02.20-16.47.26:489][892]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.47.26:489][892]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.47.51:657][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.02.20-16.47.51:660][378]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.034
+[2024.02.20-16.47.51:661][378]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/BP_Figure] ([2] browsable assets)...
+[2024.02.20-16.47.51:741][378]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/BP_Figure.BP_Figure]
+[2024.02.20-16.47.51:741][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/BP_Figure]
+[2024.02.20-16.47.51:741][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Actors/BP_Figure_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-16.47.51:856][378]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actors/BP_Figure_Auto0
+[2024.02.20-16.47.51:856][378]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure_Auto07A1770B446B6F6FB1D5F7A8CDBF5B90B.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Saved/Autosaves/Game/Actors/BP_Figure_Auto0.uasset'
+[2024.02.20-16.47.51:857][378]LogFileHelpers: Auto-saving content packages took 0.197
+[2024.02.20-16.48.05:110][656]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.48.05:263][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.20-16.48.06:749][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.48.06:776][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.48.06:915][694]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.48.06:915][694]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode464B957B462C19753361C7BD5DB38386.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.48.06:926][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 13.9 sec)
+[2024.02.20-16.48.06:928][694]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.48.06:928][694]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.48.40:799][878]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.02.20-16.48.45:390][162]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.20-16.48.45:396][162]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.20-16.48.48:652][422]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.48.48:819][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.02.20-16.48.50:274][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.48.50:317][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.48.50:414][452]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.48.50:414][452]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode442E533A481AE26F579C4DAF6B7660CF.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.48.50:422][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 14.1 sec)
+[2024.02.20-16.48.50:425][452]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.48.50:425][452]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.48.54:887][805]BlueprintLog: New page: Compile BP_Figure
+[2024.02.20-16.48.55:046][805]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Actors\BP_Figure.uasset: [Compiler] Can't connect pins  Actor  and  Local Actor : Convert BP Figure Child One Object Reference to Array of BP Figure Child One Object References
+[2024.02.20-16.48.55:047][805]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Actors\BP_Figure.uasset: [Compiler] In use pin  Column  no longer exists on node  Seek for Same Color . Please refresh node or break links to remove pin.
+[2024.02.20-16.48.55:047][805]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Actors\BP_Figure.uasset: [Compiler] In use pin  Row  no longer exists on node  Seek for Same Color . Please refresh node or break links to remove pin.
+[2024.02.20-16.48.55:047][805]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Actors\BP_Figure.uasset: [Compiler] Can't connect pins  Local Actor  and  Actor : Convert BP Figure Child One Object Reference to Array of BP Figure Child One Object References
+[2024.02.20-16.48.55:324][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.20-16.49.07:678][936]LogDerivedDataCache: C:/Users/polya/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.056 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 267 files in 513 folders with total size 4 MiB.
+[2024.02.20-16.49.29:889][978]BlueprintLog: New page: Compile BP_Figure
+[2024.02.20-16.49.30:325][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.20-16.49.31:018][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.49.31:198][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.02.20-16.49.31:304][978]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.02.20-16.49.31:304][978]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure3D192F6C4FB12A9657B23DA8DA43D86F.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.02.20-16.49.31:313][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 294 ms (total: 14.4 sec)
+[2024.02.20-16.49.31:315][978]AssetCheck: New page: Asset Save: BP_Figure
+[2024.02.20-16.49.31:315][978]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.02.20-16.49.41:009][625]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.02.20-16.49.43:955][811]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.20-16.49.43:962][811]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.20-16.49.44:722][869]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.49.44:791][869]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Common\BP_GameMode.uasset: [Compiler] Invalid pin connection from  Array Element  and  New Item : BP Figure Object Reference is not compatible with BP Figure Child One Object Reference (by ref). (You may have changed the type after the connections were made)
+[2024.02.20-16.49.44:794][869]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Common\BP_GameMode.uasset: [Compiler] COMPILER ERROR: failed building connection with 'BP Figure Object Reference is not compatible with BP Figure Child One Object Reference (by ref).' at  Get (a copy) generated from expanding For Each Loop
+[2024.02.20-16.49.44:898][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.02.20-16.49.47:121][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.49.47:152][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.49.47:244][947]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.49.47:245][947]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode8FE12D5D4E30466F91B5D59F661F0921.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.49.47:252][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 14.5 sec)
+[2024.02.20-16.49.47:254][947]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.49.47:254][947]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.49.51:522][312]BlueprintLog: New page: Compile BP_Figure
+[2024.02.20-16.49.51:983][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.02.20-16.49.53:266][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.49.53:370][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.02.20-16.49.53:462][349]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.02.20-16.49.53:463][349]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure3AA903024FD775316D283E991A52D7E5.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.02.20-16.49.53:471][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 14.7 sec)
+[2024.02.20-16.49.53:473][349]AssetCheck: New page: Asset Save: BP_Figure
+[2024.02.20-16.49.53:473][349]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.02.20-16.50.17:390][355]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.02.20-16.50.20:349][573]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.20-16.50.20:357][573]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.02.20-16.50.29:010][379]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.50.29:082][379]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Common\BP_GameMode.uasset: [Compiler] Invalid pin connection from  Array Element  and  New Item : BP Figure Object Reference is not compatible with BP Figure Child One Object Reference (by ref). (You may have changed the type after the connections were made)
+[2024.02.20-16.50.29:086][379]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Common\BP_GameMode.uasset: [Compiler] COMPILER ERROR: failed building connection with 'BP Figure Object Reference is not compatible with BP Figure Child One Object Reference (by ref).' at  Get (a copy) generated from expanding For Each Loop
+[2024.02.20-16.50.29:190][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.02.20-16.50.30:590][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.50.30:629][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.50.30:721][406]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.50.30:721][406]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameModeB8B6F1454F9A54347FCBA6B2D4425C07.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.50.30:730][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 14.8 sec)
+[2024.02.20-16.50.30:748][406]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.50.30:748][406]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.50.38:754][ 55]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.50.38:809][ 55]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Common\BP_GameMode.uasset: [Compiler] Invalid pin connection from  Array Element  and  New Item : BP Figure Object Reference is not compatible with BP Figure Child One Object Reference (by ref). (You may have changed the type after the connections were made)
+[2024.02.20-16.50.38:812][ 55]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\Meris\Content\Common\BP_GameMode.uasset: [Compiler] COMPILER ERROR: failed building connection with 'BP Figure Object Reference is not compatible with BP Figure Child One Object Reference (by ref).' at  Get (a copy) generated from expanding For Each Loop
+[2024.02.20-16.50.38:919][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.02.20-16.50.40:531][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.50.40:566][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.50.40:726][ 91]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.50.40:727][ 91]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameModeBBA2507449FE282443E641911746F67C.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.50.40:736][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 15.1 sec)
+[2024.02.20-16.50.40:738][ 91]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.50.40:738][ 91]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.51.16:977][141]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.51.17:151][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.02.20-16.51.18:296][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.51.18:325][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.51.18:424][148]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.51.18:424][148]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode2B0CADC24AB0C144160212B6A7B37FA9.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.51.18:433][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 15.2 sec)
+[2024.02.20-16.51.18:435][148]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.51.18:435][148]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.51.20:948][375]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.20-16.51.20:964][375]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-16.51.20:964][375]PIE: New page: PIE session: Main (20 февр. 2024 г., 22:51:20)
+[2024.02.20-16.51.20:964][375]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.20-16.51.21:014][375]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050032s)
+[2024.02.20-16.51.21:014][375]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.050072s)
+[2024.02.20-16.51.21:046][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.02.20-16.51.21:050][375]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.51.21:050][375]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-16.51.21:051][375]LogAIModule: Creating AISystem for world Main
+[2024.02.20-16.51.21:051][375]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2024.02.20-16.51.21:051][375]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.02.20-16.51.21:051][375]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-16.51.21:052][375]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-16.51.21:052][375]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-16.51.21:052][375]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-16.51.21:052][375]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-16.51.21:052][375]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-16.51.21:052][375]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-16.51.21:052][375]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-16.51.21:052][375]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-16.51.21:052][375]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-16.51.21:052][375]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-16.51.21:054][375]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-16.51.21:081][375]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.20-16.51.21:082][375]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-16.51.21:082][375]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-16.51.21:082][375]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-16.51.21:083][375]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.02.20-16.51.21:083][375]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.02.20-16.51.21:085][375]LogInit: FAudioDevice initialized with ID 41.
+[2024.02.20-16.51.21:085][375]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.02.20-16.51.21:085][375]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.02.20-16.51.21:085][375]LogAudio: Display: Audio Device (ID: 41) registered with world 'Main'.
+[2024.02.20-16.51.21:085][375]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.02.20-16.51.21:133][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.51.21:133][375]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.20-16.51.21:146][375]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.20-19.51.21
+[2024.02.20-16.51.21:146][375]LogWorld: Bringing up level for play took: 0.013332
+[2024.02.20-16.51.21:150][375]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2024.02.20-16.51.21:150][375]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.20-16.51.21:157][375]PIE: Server logged in
+[2024.02.20-16.51.21:160][375]PIE: Play in editor total start time 0,196 seconds.
+[2024.02.20-16.51.21:178][375]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.20-16.51.26:654][776]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.51.26:654][776]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.51.26:654][776]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.51.26:654][776]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.51.26:654][776]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.51.26:654][776]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.51.26:669][776]LogBlueprintUserMessages: [BP_GameMode_C_0] assend
+[2024.02.20-16.51.26:671][776]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.51.26:671][776]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.51.26:671][776]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.51.26:671][776]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.51.26:687][776]LogBlueprintUserMessages: [BP_GameMode_C_0] assend
+[2024.02.20-16.51.27:726][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.51.27:726][849]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.20-16.51.27:727][849]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.20-16.51.27:732][849]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.51.27:734][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.51.27:737][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-16.51.27:743][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.51.27:769][849]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-16.51.27:770][849]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.02.20-16.51.27:770][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.02.20-16.51.27:774][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.02.20-16.51.27:785][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.20-16.51.27:816][850]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2024.02.20-16.51.38:273][801]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.51.38:427][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.20-16.51.39:798][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.51.39:838][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.51.39:938][821]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.51.39:939][821]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameModeFEC56E4B44883215B60DFA831C314D3A.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.51.39:947][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 15.3 sec)
+[2024.02.20-16.51.39:949][821]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.51.39:949][821]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.51.41:045][918]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.20-16.51.41:059][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-16.51.41:059][918]PIE: New page: PIE session: Main (20 февр. 2024 г., 22:51:41)
+[2024.02.20-16.51.41:060][918]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.20-16.51.41:109][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049307s)
+[2024.02.20-16.51.41:109][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.049362s)
+[2024.02.20-16.51.41:144][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.20-16.51.41:147][918]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.51.41:147][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-16.51.41:148][918]LogAIModule: Creating AISystem for world Main
+[2024.02.20-16.51.41:148][918]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2024.02.20-16.51.41:148][918]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.02.20-16.51.41:148][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-16.51.41:148][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-16.51.41:148][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-16.51.41:148][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-16.51.41:148][918]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-16.51.41:148][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-16.51.41:148][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-16.51.41:148][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-16.51.41:149][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-16.51.41:149][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-16.51.41:149][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-16.51.41:152][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-16.51.41:178][918]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.20-16.51.41:178][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-16.51.41:178][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-16.51.41:178][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-16.51.41:179][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.02.20-16.51.41:179][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.02.20-16.51.41:181][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.02.20-16.51.41:181][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.02.20-16.51.41:181][918]LogInit: FAudioDevice initialized with ID 42.
+[2024.02.20-16.51.41:181][918]LogAudio: Display: Audio Device (ID: 42) registered with world 'Main'.
+[2024.02.20-16.51.41:181][918]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.02.20-16.51.41:223][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.51.41:223][918]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.20-16.51.41:235][918]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.20-19.51.41
+[2024.02.20-16.51.41:235][918]LogWorld: Bringing up level for play took: 0.012095
+[2024.02.20-16.51.41:238][918]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2024.02.20-16.51.41:238][918]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.20-16.51.41:245][918]PIE: Server logged in
+[2024.02.20-16.51.41:248][918]PIE: Play in editor total start time 0,189 seconds.
+[2024.02.20-16.51.41:265][918]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.20-16.51.46:651][311]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.51.46:651][311]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.51.46:651][311]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.51.46:651][311]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.51.46:651][311]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.51.46:651][311]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.51.46:666][311]LogBlueprintUserMessages: [BP_GameMode_C_0] assend
+[2024.02.20-16.51.46:756][311]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_1 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_1 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:01FD
+[2024.02.20-16.51.46:788][311]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_1 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_1 is not valid (pending kill or garbage)". Node:  Set LocalRow Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.51.46:788][311]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_1 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_1 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:026B
+[2024.02.20-16.51.46:788][311]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_1 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_1 is not valid (pending kill or garbage)". Node:  Set LocalColumn Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.51.46:790][311]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_2 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_2 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:01FD
+[2024.02.20-16.51.46:790][311]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_2 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_2 is not valid (pending kill or garbage)". Node:  Set LocalRow Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.51.46:790][311]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_2 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_2 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:026B
+[2024.02.20-16.51.46:790][311]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_2 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_2 is not valid (pending kill or garbage)". Node:  Set LocalColumn Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.51.46:792][311]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_3 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_3 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:01FD
+[2024.02.20-16.51.46:792][311]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_3 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_3 is not valid (pending kill or garbage)". Node:  Set LocalRow Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.51.46:792][311]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_3 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_3 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:026B
+[2024.02.20-16.51.46:792][311]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_3 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_3 is not valid (pending kill or garbage)". Node:  Set LocalColumn Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.51.47:707][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.51.47:708][379]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.20-16.51.47:708][379]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.20-16.51.47:713][379]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.51.47:716][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.51.47:719][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-16.51.47:725][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.51.47:748][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-16.51.47:749][379]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.02.20-16.51.47:749][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.02.20-16.51.47:750][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.02.20-16.51.47:764][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.20-16.51.47:872][380]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2024.02.20-16.52.07:117][ 66]LogSlate: Window 'Message Log' being destroyed
+[2024.02.20-16.52.07:124][ 66]LogSlate: Window 'Message Log' being destroyed
+[2024.02.20-16.54.11:495][156]BlueprintLog: New page: Compile BP_Figure
+[2024.02.20-16.54.11:981][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.02.20-16.54.13:326][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.54.13:420][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.02.20-16.54.13:531][182]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.02.20-16.54.13:531][182]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure7C640FAA42BB20916326048D778F1812.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.02.20-16.54.13:543][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 15.6 sec)
+[2024.02.20-16.54.13:545][182]AssetCheck: New page: Asset Save: BP_Figure
+[2024.02.20-16.54.13:546][182]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.02.20-16.54.19:424][752]BlueprintLog: New page: Compile BP_Figure
+[2024.02.20-16.54.19:828][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.20-16.54.21:363][825]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.20-16.54.21:379][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-16.54.21:379][825]PIE: New page: PIE session: Main (20 февр. 2024 г., 22:54:21)
+[2024.02.20-16.54.21:417][825]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.20-16.54.21:465][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048295s)
+[2024.02.20-16.54.21:465][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.048345s)
+[2024.02.20-16.54.21:497][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.02.20-16.54.21:501][825]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.54.21:501][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-16.54.21:502][825]LogAIModule: Creating AISystem for world Main
+[2024.02.20-16.54.21:502][825]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2024.02.20-16.54.21:502][825]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.02.20-16.54.21:502][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-16.54.21:502][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-16.54.21:502][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-16.54.21:502][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-16.54.21:502][825]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-16.54.21:502][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-16.54.21:502][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-16.54.21:502][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-16.54.21:503][825]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-16.54.21:503][825]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-16.54.21:503][825]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-16.54.21:506][825]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-16.54.21:532][825]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.20-16.54.21:532][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-16.54.21:532][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-16.54.21:532][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-16.54.21:533][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.02.20-16.54.21:533][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.02.20-16.54.21:535][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.02.20-16.54.21:535][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.02.20-16.54.21:535][825]LogInit: FAudioDevice initialized with ID 43.
+[2024.02.20-16.54.21:535][825]LogAudio: Display: Audio Device (ID: 43) registered with world 'Main'.
+[2024.02.20-16.54.21:535][825]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.02.20-16.54.21:578][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.54.21:578][825]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.20-16.54.21:590][825]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.20-19.54.21
+[2024.02.20-16.54.21:590][825]LogWorld: Bringing up level for play took: 0.012430
+[2024.02.20-16.54.21:592][825]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.02.20-16.54.21:593][825]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.20-16.54.21:600][825]PIE: Server logged in
+[2024.02.20-16.54.21:602][825]PIE: Play in editor total start time 0,223 seconds.
+[2024.02.20-16.54.21:617][825]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.20-16.54.23:186][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.54.23:186][930]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.20-16.54.23:186][930]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.20-16.54.23:189][930]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.54.23:191][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.54.23:193][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-16.54.23:200][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.54.23:225][930]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-16.54.23:226][930]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.02.20-16.54.23:226][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.02.20-16.54.23:227][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.02.20-16.54.23:239][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.20-16.54.23:268][931]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.02.20-16.54.23:759][978]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.20-16.54.23:772][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-16.54.23:772][978]PIE: New page: PIE session: Main (20 февр. 2024 г., 22:54:23)
+[2024.02.20-16.54.23:773][978]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.20-16.54.23:821][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048764s)
+[2024.02.20-16.54.23:821][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.048806s)
+[2024.02.20-16.54.23:842][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.02.20-16.54.23:844][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.54.23:844][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-16.54.23:844][978]LogAIModule: Creating AISystem for world Main
+[2024.02.20-16.54.23:845][978]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2024.02.20-16.54.23:845][978]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.02.20-16.54.23:845][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-16.54.23:845][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-16.54.23:845][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-16.54.23:845][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-16.54.23:845][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-16.54.23:845][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-16.54.23:845][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-16.54.23:845][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-16.54.23:845][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-16.54.23:846][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-16.54.23:846][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-16.54.23:848][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-16.54.23:873][978]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.20-16.54.23:874][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-16.54.23:874][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-16.54.23:874][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-16.54.23:874][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.02.20-16.54.23:874][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.02.20-16.54.23:877][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.02.20-16.54.23:877][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.02.20-16.54.23:877][978]LogInit: FAudioDevice initialized with ID 44.
+[2024.02.20-16.54.23:877][978]LogAudio: Display: Audio Device (ID: 44) registered with world 'Main'.
+[2024.02.20-16.54.23:877][978]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.02.20-16.54.23:929][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.54.23:929][978]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.20-16.54.23:942][978]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.20-19.54.23
+[2024.02.20-16.54.23:942][978]LogWorld: Bringing up level for play took: 0.012554
+[2024.02.20-16.54.23:945][978]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2024.02.20-16.54.23:945][978]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.20-16.54.23:952][978]PIE: Server logged in
+[2024.02.20-16.54.23:954][978]PIE: Play in editor total start time 0,182 seconds.
+[2024.02.20-16.54.23:971][978]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.20-16.54.29:909][419]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.54.29:909][419]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.54.29:909][419]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.54.29:909][419]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.54.29:909][419]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.54.29:909][419]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.54.29:924][419]LogBlueprintUserMessages: [BP_GameMode_C_0] assend
+[2024.02.20-16.54.29:926][419]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.54.29:926][419]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.54.29:926][419]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.54.29:926][419]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.54.29:941][419]LogBlueprintUserMessages: [BP_GameMode_C_0] assend
+[2024.02.20-16.54.31:006][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.54.31:006][496]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.20-16.54.31:006][496]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.20-16.54.31:012][496]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.54.31:014][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.54.31:016][496]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-16.54.31:023][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.54.31:047][496]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.02.20-16.54.31:047][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.02.20-16.54.31:048][496]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.02.20-16.54.31:059][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.02.20-16.54.31:087][497]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2024.02.20-16.55.01:969][241]BlueprintLog: New page: Compile BP_GameMode
+[2024.02.20-16.55.02:143][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.02.20-16.55.03:025][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.55.03:056][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Common/BP_GameMode" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset" SILENT=true
+[2024.02.20-16.55.03:153][241]LogSavePackage: Moving output files for package: /Game/Common/BP_GameMode
+[2024.02.20-16.55.03:154][241]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_GameMode229AD671431070C2C53752A145A16160.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Common/BP_GameMode.uasset'
+[2024.02.20-16.55.03:162][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 15.7 sec)
+[2024.02.20-16.55.03:164][241]AssetCheck: New page: Asset Save: BP_GameMode
+[2024.02.20-16.55.03:164][241]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Common/BP_GameMode.BP_GameMode
+[2024.02.20-16.55.03:754][271]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.20-16.55.03:769][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-16.55.03:769][271]PIE: New page: PIE session: Main (20 февр. 2024 г., 22:55:03)
+[2024.02.20-16.55.03:769][271]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.02.20-16.55.03:820][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050832s)
+[2024.02.20-16.55.03:820][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.050873s)
+[2024.02.20-16.55.03:857][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.20-16.55.03:863][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.20-16.55.03:863][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-16.55.03:864][271]LogAIModule: Creating AISystem for world Main
+[2024.02.20-16.55.03:864][271]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2024.02.20-16.55.03:864][271]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.02.20-16.55.03:864][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-16.55.03:864][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-16.55.03:864][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-16.55.03:864][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-16.55.03:865][271]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-16.55.03:865][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.20-16.55.03:865][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-16.55.03:865][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-16.55.03:865][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-16.55.03:865][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-16.55.03:865][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-16.55.03:868][271]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-16.55.03:911][271]LogAudioMixer: Display: Using Audio Hardware Device VZ249 (NVIDIA High Definition Audio)
+[2024.02.20-16.55.03:911][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-16.55.03:911][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-16.55.03:911][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-16.55.03:912][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.02.20-16.55.03:913][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.02.20-16.55.03:915][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.02.20-16.55.03:915][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.02.20-16.55.03:915][271]LogInit: FAudioDevice initialized with ID 45.
+[2024.02.20-16.55.03:915][271]LogAudio: Display: Audio Device (ID: 45) registered with world 'Main'.
+[2024.02.20-16.55.03:915][271]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.02.20-16.55.03:952][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.55.03:952][271]LogLoad: Game class is 'BP_GameMode_C'
+[2024.02.20-16.55.03:964][271]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.02.20-19.55.03
+[2024.02.20-16.55.03:964][271]LogWorld: Bringing up level for play took: 0.012473
+[2024.02.20-16.55.03:967][271]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2024.02.20-16.55.03:967][271]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.02.20-16.55.03:974][271]PIE: Server logged in
+[2024.02.20-16.55.03:975][271]PIE: Play in editor total start time 0,207 seconds.
+[2024.02.20-16.55.03:991][271]LogViewport: Scene viewport resized to 1077x641, mode Windowed.
+[2024.02.20-16.55.09:204][658]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.20-16.55.09:204][658]LogBlueprintUserMessages: [BP_GameMode_C_0] 4
+[2024.02.20-16.55.09:204][658]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.20-16.55.09:204][658]LogBlueprintUserMessages: [BP_GameMode_C_0] 4
+[2024.02.20-16.55.09:204][658]LogBlueprintUserMessages: [BP_GameMode_C_0] 3
+[2024.02.20-16.55.09:204][658]LogBlueprintUserMessages: [BP_GameMode_C_0] 4
+[2024.02.20-16.55.09:204][658]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.55.09:204][658]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.55.09:204][658]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.55.09:204][658]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.55.09:204][658]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NewColourArray' of length 0 in '/Game/Common/BP_GameMode.BP_GameMode_C'!
+[2024.02.20-16.55.09:204][658]LogScript: Warning: Script Msg called by: BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+[2024.02.20-16.55.09:222][658]LogBlueprintUserMessages: [BP_GameMode_C_0] assend
+[2024.02.20-16.55.09:227][658]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_1 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_1 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:01FD
+[2024.02.20-16.55.09:227][658]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_1 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_1 is not valid (pending kill or garbage)". Node:  Set LocalRow Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.55.09:227][658]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_1 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_1 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:026B
+[2024.02.20-16.55.09:227][658]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_1 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_1 is not valid (pending kill or garbage)". Node:  Set LocalColumn Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.55.09:229][658]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_2 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_2 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:01FD
+[2024.02.20-16.55.09:229][658]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_2 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_2 is not valid (pending kill or garbage)". Node:  Set LocalRow Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.55.09:230][658]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_2 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_2 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:026B
+[2024.02.20-16.55.09:230][658]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_2 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_2 is not valid (pending kill or garbage)". Node:  Set LocalColumn Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.55.09:232][658]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_3 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_3 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:01FD
+[2024.02.20-16.55.09:232][658]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_3 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_3 is not valid (pending kill or garbage)". Node:  Set LocalRow Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.55.09:232][658]LogScript: Warning: Attempted to access BP_Figure_Child_one_C_3 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_3 is not valid (pending kill or garbage)
+	BP_GameMode_C /Game/UEDPIE_0_Main.Main:PersistentLevel.BP_GameMode_C_0
+	Function /Game/Common/BP_GameMode.BP_GameMode_C:SeekForSameColor:026B
+[2024.02.20-16.55.09:232][658]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Figure_Child_one_C_3 via property CallFunc_Array_Get_Item_8, but BP_Figure_Child_one_C_3 is not valid (pending kill or garbage)". Node:  Set LocalColumn Graph:  SeekForSameColor Function:  Seek for Same Color Blueprint:  BP_GameMode
+[2024.02.20-16.55.15:498][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-16.55.15:498][132]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.02.20-16.55.15:499][132]LogSlate: Window 'Meris Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.20-16.55.15:504][132]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.15:506][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.55.15:509][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-16.55.15:515][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.55.15:542][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-16.55.15:543][132]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.02.20-16.55.15:543][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.02.20-16.55.15:544][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.02.20-16.55.15:557][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.20-16.55.15:666][133]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2024.02.20-16.55.19:213][396]LogSlate: Window 'Message Log' being destroyed
+[2024.02.20-16.55.19:223][396]LogSlate: Window 'Message Log' being destroyed
+[2024.02.20-16.55.25:942][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.20-16.55.26:894][963]LogSlate: Window 'Save Content' being destroyed
+[2024.02.20-16.55.27:025][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-16.55.27:185][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Figure" FILE="../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset" SILENT=true
+[2024.02.20-16.55.27:281][963]LogSavePackage: Moving output files for package: /Game/Actors/BP_Figure
+[2024.02.20-16.55.27:282][963]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/Meris/Saved/BP_Figure4174AABD4C7CBF95E370B58176C9925F.tmp' to '../../../../../GAME_PROJECTS_ue/Meris/Content/Actors/BP_Figure.uasset'
+[2024.02.20-16.55.27:293][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 268 ms (total: 16.0 sec)
+[2024.02.20-16.55.27:295][963]AssetCheck: New page: Asset Save: BP_Figure
+[2024.02.20-16.55.27:295][963]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Figure.BP_Figure
+[2024.02.20-16.55.27:897][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.20-16.55.27:899][  7]LogStall: Shutdown...
+[2024.02.20-16.55.27:903][  7]LogStall: Shutdown complete.
+[2024.02.20-16.55.28:161][  7]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.28:161][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.55.28:356][  7]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.20-16.55.28:356][  7]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.28:356][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.55.28:626][  7]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.20-16.55.28:626][  7]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.28:626][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.55.30:959][  7]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.20-16.55.30:959][  7]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.30:959][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.55.31:362][  7]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.20-16.55.31:362][  7]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.31:362][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.55.31:579][  7]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.20-16.55.31:579][  7]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.31:579][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.55.31:844][  7]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.20-16.55.31:844][  7]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.31:845][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.55.32:321][  7]LogSlate: Window 'Meris - Unreal Editor' being destroyed
+[2024.02.20-16.55.32:635][  8]Cmd: QUIT_EDITOR
+[2024.02.20-16.55.32:635][  8]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.02.20-16.55.32:739][  8]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.02.20-16.55.32:751][  8]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.02.20-16.55.32:751][  8]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.02.20-16.55.32:887][  8]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.32:887][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-16.55.33:479][  8]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.02.20-16.55.34:276][  8]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.02.20-16.55.34:276][  8]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.02.20-16.55.34:276][  8]LogAudio: Display: Audio Device unregistered from world 'Main'.
+[2024.02.20-16.55.34:276][  8]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.02.20-16.55.34:276][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.02.20-16.55.34:279][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.02.20-16.55.34:298][  8]LogAudio: Display: Audio Device Manager Shutdown
+[2024.02.20-16.55.34:299][  8]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.02.20-16.55.34:348][  8]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.02.20-16.55.34:398][  8]LogExit: Preparing to exit.
+[2024.02.20-16.55.34:972][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.20-16.55.35:017][  8]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:017][  8]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:021][  8]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:022][  8]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:023][  8]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.35:023][  8]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.02.20-16.55.36:793][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:793][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:793][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:793][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:793][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:793][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:793][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:793][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:793][  8]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:794][  8]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:794][  8]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:794][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.02.20-16.55.36:795][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-16.55.37:215][  8]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.02.20-16.55.39:152][  8]LogExit: Editor shut down
+[2024.02.20-16.55.39:195][  8]LogExit: Transaction tracking system shut down
